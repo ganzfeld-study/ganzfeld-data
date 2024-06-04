@@ -28,3 +28,5 @@
             <p>Klicka på Nästa när du är klar.</p>","","","8","0","1","../video/16 A Glacier Falling.mp4","../video/16 B Cheetah hunt.mp4"
 "true","false","[]","[]","[]","preload","18","2911536","0.0-14.0","2024-05-30T18:57:59.167Z","1_rdtfkv","","","","","","","","","","",""
 "","","","","","survey-html-form","19","2950970","0.0-15.0-0.0","2024-05-30T18:57:59.167Z","1_rdtfkv","39432","{""ClipA"":""9"",""ClipB"":""76""}","videoRating","","","","","","","",""
+"","","","","","html-button-response","20","2956258","0.0-16.0","2024-05-30T18:57:59.167Z","1_rdtfkv","5286","0","videoTargetIntro","<p>Vi kommer nu att visa det klipp som är måltavlan.</p><p>Vänligen titta noggrant på hela klippet en andra gång.</p>","","","","","","",""
+"","","","","","video-keyboard-response","21","3020018","0.0-17.0","2024-05-30T18:57:59.167Z","1_rdtfkv","null","null","videoTarget","[""../video/16 A Glacier Falling.mp4""]","","","","","","",""
