@@ -28,3 +28,5 @@
             <p>Bitte klicken Sie auf ""Weiter"", wenn Sie bereit sind.</p>","","","16","0","1","../video/24 A Tears in the rain.mp4","../video/24 B Flying Frog.mp4"
 "true","false","[]","[]","[]","preload","18","3584469","0.0-14.0","2024-06-13T15:58:24.596Z","5_wau294","","","","","","","","","","",""
 "","","","","","survey-html-form","19","3774835","0.0-15.0-0.0","2024-06-13T15:58:24.596Z","5_wau294","190364","{""ClipA"":""91"",""ClipB"":""17""}","videoRating","","","","","","","",""
+"","","","","","html-button-response","20","3779970","0.0-16.0","2024-06-13T15:58:24.596Z","5_wau294","5132","0","videoTargetIntro","<p>Wir werden jetzt das Zielvideo auswählen.</p><p>Bitte sehen Sie sich das ausgewählte Video ein zweites Mal an.</p>","","","","","","",""
+"","","","","","video-keyboard-response","21","3843984","0.0-17.0","2024-06-13T15:58:24.596Z","5_wau294","null","null","videoTarget","[""../video/24 A Tears in the rain.mp4""]","","","","","","",""
