@@ -29,3 +29,4 @@
 "true","false","[]","[]","[]","preload","19","3018532","0.0-15.0","2024-07-01T22:48:04.894Z","3_123456","","","","","","","","","","","",""
 "","","","","","survey-html-form","20","3155018","0.0-16.0-0.0","2024-07-01T22:48:04.894Z","3_123456","136481","{""ClipA"":""90"",""ClipB"":""24""}","videoRating","","","","","","","","",""
 "","","","","","html-button-response","21","3159153","0.0-17.0","2024-07-01T22:48:04.894Z","3_123456","4134","0","videoTargetIntro","<p>We will now select the target video.</p><p>Please watch the selected video a second time.</p>","","","","","","","","[""../video/27 D Mustang Sally.mp4""]"
+"","","","","","video-keyboard-response","22","3221098","0.0-18.0","2024-07-01T22:48:04.894Z","3_123456","null","null","videoTarget","[""../video/27 D Mustang Sally.mp4""]","","","","","","","",""
