@@ -1,0 +1,32 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part","stimulus","slider_start","value","rndSet","rndV1","rndV2","videoA","videoB","videoStimulus"
+"true","false","[]","[]","[]","preload","0","6232","0.0-0.0","2024-07-09T12:29:53.216Z","5_mzungf","","","","","","","","","","","",""
+"","","","","","survey","1","8530","0.0-1.0","2024-07-09T12:29:53.216Z","5_mzungf","2264","{""testrun"":""Experiment""}","testrun","","","","","","","","",""
+"","","","","","survey-text","2","278238","0.0-2.0","2024-07-09T12:29:53.216Z","5_mzungf","269700","{""subject_id"":""5_mzungf""}","welcome","","","","","","","","",""
+"","","","","","html-slider-response","3","314821","0.0-3.0","2024-07-09T12:29:53.216Z","5_mzungf","36582","3","successBelief","<p>Bevor wir beginnen, möchten wir Sie nach Ihrer Einstellung zum Experiment fragen.</p>
+            <p style=""font-weight: bold;"">Wie wahrscheinlich halten Sie es, dass Sie persönlich bei Ihrem heutigen präkognitiven Test erfolgreich sein werden?</p>","50","","","","","","",""
+"","","","","","html-slider-response","4","328429","0.0-4.0","2024-07-09T12:29:53.216Z","5_mzungf","13607","54","comfortable","<p style=""font-weight: bold;"">Fühlen Sie sich wohl mit dem Ganzfeld-Setup?</p>","50","","","","","","",""
+"","","","","","html-button-response","5","360981","0.0-5.0","2024-07-09T12:29:53.216Z","5_mzungf","32552","0","restIntro","<p>Als nächstes möchten wir Sie bitten, sich für 3 Minuten auf einen bequemen Stuhl zu setzen. Drücken Sie auf ""Weiter"", wenn Sie bereit sind, machen Sie es sich dann im Stuhl bequem und ruhen Sie sich aus, bis Sie ein Signalton am Ende des dreiminütigen Intervalls hören. Danach können Sie zu diesem Programm zurückkehren, um fortzufahren.</p>","","","","","","","",""
+"","","","","","html-keyboard-response","6","543607","0.0-6.0","2024-07-09T12:29:53.216Z","5_mzungf","null","null","rest","","","","","","","","",""
+"","","","","","call-function","7","543609","0.0-7.0-0.0","2024-07-09T12:29:53.216Z","5_mzungf","","","","","","","","","","","",""
+"","","","","","survey","8","722884","0.0-7.0-1.0","2024-07-09T12:29:53.216Z","5_mzungf","179231","{""PCIRest1"":4,""PCIRest2"":0,""PCIRest3"":0,""PCIRest4"":0,""PCIRest5"":0,""PCIRest6"":0,""PCIRest7"":0,""PCIRest8"":2,""PCIRest9"":2,""PCIRest10"":6,""PCIRest11"":0,""PCIRest12"":1,""PCIRest13"":0,""PCIIntro"":null}","PCIRest","","","","","","","","",""
+"","","","","","call-function","9","722885","0.0-7.0-2.0","2024-07-09T12:29:53.216Z","5_mzungf","","","","","","","","","","","",""
+"","","","","","html-button-response","10","946581","0.0-8.0","2024-07-09T12:29:53.216Z","5_mzungf","223694","0","GanzfeldIntro","<p>Bitte sagen Sie dem Versuchsleiter, dass er Ihnen bei der Ganzfeld-Ausrüstung behilflich sein soll. Der Versuchsleiter wird auf ""Weiter"" klicken, wenn Sie bereit sind, um zu beginnen.</p>
+            <p>Der Audiopegel für das Ganzfeld kann während der Wiedergabe der unten stehenden Audiodatei angepasst werden.</p>
+            <audio controls>
+                <source src=""../audio/pinknoise_7min_128.mp3"" type=""audio/mpeg"">
+                Your browser does not support the audio element.
+            </audio>","","","","","","","",""
+"","","","","","audio-keyboard-response","11","2746584","0.0-9.0","2024-07-09T12:29:53.216Z","5_mzungf","null","null","GanzfeldPlay","../audio/German_Ganzfeld_Induction_v3.mp3","","","","","","","",""
+"","","","","","call-function","12","2746585","0.0-10.0-0.0","2024-07-09T12:29:53.216Z","5_mzungf","","","","","","","","","","","",""
+"","","","","","survey","13","3037247","0.0-10.0-1.0","2024-07-09T12:29:53.216Z","5_mzungf","290628","{""PCIGanz1"":6,""PCIGanz2"":3,""PCIGanz3"":0,""PCIGanz4"":6,""PCIGanz5"":3,""PCIGanz6"":5,""PCIGanz7"":0,""PCIGanz8"":2,""PCIGanz9"":0,""PCIGanz10"":2,""PCIGanz11"":0,""PCIGanz12"":2,""PCIGanz13"":2,""PCIIntro"":null}","PCIGanzfeld","","","","","","","","",""
+"","","","","","call-function","14","3037247","0.0-10.0-2.0","2024-07-09T12:29:53.216Z","5_mzungf","","","","","","","","","","","",""
+"","","","","","survey","15","3105415","0.0-11.0","2024-07-09T12:29:53.216Z","5_mzungf","68155","{""DSSQ"":{""DSSQ01"":3,""DSSQ02"":2,""DSSQ03"":2,""DSSQ04"":1,""DSSQ05"":3,""DSSQ06"":2,""DSSQ07"":1,""DSSQ08"":1},""DSSQIntro"":null}","DSSQ","","","","","","","","",""
+"","","","","","html-slider-response","16","3124509","0.0-12.0","2024-07-09T12:29:53.216Z","5_mzungf","19093","17","time1","<p><i>Bitte beantworten Sie die folgenden beiden Fragen zu Ihren Erfahrungen während der 30 Minuten Ganzfeld.</i></p>
+            <p>1. Wie oft haben Sie <b>während der Aufgabe</b> an die Zeit gedacht?</p>","50","","","","","","",""
+"","","","","","html-slider-response","17","3137860","0.0-13.0","2024-07-09T12:29:53.216Z","5_mzungf","13350","52","time2","<p><i>Bitte beantworten Sie die folgenden beiden Fragen zu Ihren Erfahrungen während der 30 Minuten Ganzfeld.</i></p>
+            <p>2. Wie schnell verging die Zeit für Sie <b>während der Aufgabe</b>?</p>","50","","","","","","",""
+"","","","","","html-button-response","18","3146428","0.0-14.0","2024-07-09T12:29:53.216Z","5_mzungf","8568","0","videoIntro","<p>Jetzt möchten wir, dass Sie sich zwei kurze Videos ansehen und bewerten, wie ähnlich sie Ihrem Ganzfeld-Erlebnis sind.</p>
+            <p>Bitte klicken Sie auf ""Weiter"", wenn Sie bereit sind.</p>","","","16","2","3","../video/24 C Who dares to boo their own Chieftain.mp4","../video/24 D Dropping.mp4",""
+"true","false","[]","[]","[]","preload","19","3162485","0.0-15.0","2024-07-09T12:29:53.216Z","5_mzungf","","","","","","","","","","","",""
+"","","","","","survey-html-form","20","3319052","0.0-16.0-0.0","2024-07-09T12:29:53.216Z","5_mzungf","156566","{""ClipA"":""0"",""ClipB"":""30""}","videoRating","","","","","","","","",""
+"","","","","","html-button-response","21","3326148","0.0-17.0","2024-07-09T12:29:53.216Z","5_mzungf","7094","0","videoTargetIntro","<p>Wir werden jetzt das Zielvideo auswählen.</p><p>Bitte sehen Sie sich das ausgewählte Video ein zweites Mal an.</p>","","","","","","","","[""../video/24 C Who dares to boo their own Chieftain.mp4""]"
