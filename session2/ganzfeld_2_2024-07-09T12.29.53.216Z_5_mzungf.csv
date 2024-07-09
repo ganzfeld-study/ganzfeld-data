@@ -30,3 +30,4 @@
 "true","false","[]","[]","[]","preload","19","3162485","0.0-15.0","2024-07-09T12:29:53.216Z","5_mzungf","","","","","","","","","","","",""
 "","","","","","survey-html-form","20","3319052","0.0-16.0-0.0","2024-07-09T12:29:53.216Z","5_mzungf","156566","{""ClipA"":""0"",""ClipB"":""30""}","videoRating","","","","","","","","",""
 "","","","","","html-button-response","21","3326148","0.0-17.0","2024-07-09T12:29:53.216Z","5_mzungf","7094","0","videoTargetIntro","<p>Wir werden jetzt das Zielvideo auswählen.</p><p>Bitte sehen Sie sich das ausgewählte Video ein zweites Mal an.</p>","","","","","","","","[""../video/24 C Who dares to boo their own Chieftain.mp4""]"
+"","","","","","video-keyboard-response","22","3387081","0.0-18.0","2024-07-09T12:29:53.216Z","5_mzungf","null","null","videoTarget","[""../video/24 C Who dares to boo their own Chieftain.mp4""]","","","","","","","",""
