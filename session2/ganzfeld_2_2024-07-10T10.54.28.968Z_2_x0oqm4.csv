@@ -29,3 +29,4 @@
 "true","false","[]","[]","[]","preload","19","3403876","0.0-15.0","2024-07-10T10:54:28.968Z","2_x0oqm4","","","","","","","","","","","",""
 "","","","","","survey-html-form","20","3578388","0.0-16.0-0.0","2024-07-10T10:54:28.968Z","2_x0oqm4","174509","{""ClipA"":""75"",""ClipB"":""26""}","videoRating","","","","","","","","",""
 "","","","","","html-button-response","21","3586251","0.0-17.0","2024-07-10T10:54:28.968Z","2_x0oqm4","7860","0","videoTargetIntro","<p>We will now select the target video.</p><p>Please watch the selected video a second time.</p>","","","","","","","","[""../video/19 D Modern Times.mp4""]"
+"","","","","","video-keyboard-response","22","3647577","0.0-18.0","2024-07-10T10:54:28.968Z","2_x0oqm4","null","null","videoTarget","[""../video/19 D Modern Times.mp4""]","","","","","","","",""
