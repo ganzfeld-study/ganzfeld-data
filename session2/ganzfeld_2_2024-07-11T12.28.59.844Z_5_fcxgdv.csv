@@ -30,3 +30,4 @@
 "true","false","[]","[]","[]","preload","19","3040595","0.0-15.0","2024-07-11T12:28:59.844Z","5_fcxgdv","","","","","","","","","","","",""
 "","","","","","survey-html-form","20","3194503","0.0-16.0-0.0","2024-07-11T12:28:59.844Z","5_fcxgdv","153906","{""ClipA"":""5"",""ClipB"":""80""}","videoRating","","","","","","","","",""
 "","","","","","html-button-response","21","3197143","0.0-17.0","2024-07-11T12:28:59.844Z","5_fcxgdv","2638","0","videoTargetIntro","<p>Wir werden jetzt das Zielvideo auswählen.</p><p>Bitte sehen Sie sich das ausgewählte Video ein zweites Mal an.</p>","","","","","","","","[""../video/17 A Shoal of Fish.mp4""]"
+"","","","","","video-keyboard-response","22","3260293","0.0-18.0","2024-07-11T12:28:59.844Z","5_fcxgdv","null","null","videoTarget","[""../video/17 A Shoal of Fish.mp4""]","","","","","","","",""
