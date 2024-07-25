@@ -1,0 +1,32 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part","stimulus","slider_start","value","rndSet","rndV1","rndV2","videoA","videoB","videoStimulus"
+"true","false","[]","[]","[]","preload","0","5937","0.0-0.0","2024-07-25T07:50:33.761Z","5_5bh0oh","","","","","","","","","","","",""
+"","","","","","survey","1","8182","0.0-1.0","2024-07-25T07:50:33.761Z","5_5bh0oh","2221","{""testrun"":""Experiment""}","testrun","","","","","","","","",""
+"","","","","","survey-text","2","385335","0.0-2.0","2024-07-25T07:50:33.761Z","5_5bh0oh","377145","{""subject_id"":""5_5bh0oh""}","welcome","","","","","","","","",""
+"","","","","","html-slider-response","3","403512","0.0-3.0","2024-07-25T07:50:33.761Z","5_5bh0oh","18175","67","successBelief","<p>Bevor wir beginnen, möchten wir Sie nach Ihrer Einstellung zum Experiment fragen.</p>
+            <p style=""font-weight: bold;"">Wie wahrscheinlich halten Sie es, dass Sie persönlich bei Ihrem heutigen präkognitiven Test erfolgreich sein werden?</p>","50","","","","","","",""
+"","","","","","html-slider-response","4","406759","0.0-4.0","2024-07-25T07:50:33.761Z","5_5bh0oh","3247","100","comfortable","<p style=""font-weight: bold;"">Fühlen Sie sich wohl mit dem Ganzfeld-Setup?</p>","50","","","","","","",""
+"","","","","","html-button-response","5","418119","0.0-5.0","2024-07-25T07:50:33.761Z","5_5bh0oh","11359","0","restIntro","<p>Als nächstes möchten wir Sie bitten, sich für 3 Minuten auf einen bequemen Stuhl zu setzen. Drücken Sie auf ""Weiter"", wenn Sie bereit sind, machen Sie es sich dann im Stuhl bequem und ruhen Sie sich aus, bis Sie ein Signalton am Ende des dreiminütigen Intervalls hören. Danach können Sie zu diesem Programm zurückkehren, um fortzufahren.</p>","","","","","","","",""
+"","","","","","html-keyboard-response","6","600686","0.0-6.0","2024-07-25T07:50:33.761Z","5_5bh0oh","null","null","rest","","","","","","","","",""
+"","","","","","call-function","7","600687","0.0-7.0-0.0","2024-07-25T07:50:33.761Z","5_5bh0oh","","","","","","","","","","","",""
+"","","","","","survey","8","825253","0.0-7.0-1.0","2024-07-25T07:50:33.761Z","5_5bh0oh","224529","{""PCIRest1"":3,""PCIRest2"":4,""PCIRest3"":0,""PCIRest4"":6,""PCIRest5"":3,""PCIRest6"":1,""PCIRest7"":2,""PCIRest8"":3,""PCIRest9"":0,""PCIRest10"":3,""PCIRest11"":2,""PCIRest12"":6,""PCIRest13"":5,""PCIIntro"":null}","PCIRest","","","","","","","","",""
+"","","","","","call-function","9","825254","0.0-7.0-2.0","2024-07-25T07:50:33.761Z","5_5bh0oh","","","","","","","","","","","",""
+"","","","","","html-button-response","10","1070015","0.0-8.0","2024-07-25T07:50:33.761Z","5_5bh0oh","244759","0","GanzfeldIntro","<p>Bitte sagen Sie dem Versuchsleiter, dass er Ihnen bei der Ganzfeld-Ausrüstung behilflich sein soll. Der Versuchsleiter wird auf ""Weiter"" klicken, wenn Sie bereit sind, um zu beginnen.</p>
+            <p>Der Audiopegel für das Ganzfeld kann während der Wiedergabe der unten stehenden Audiodatei angepasst werden.</p>
+            <audio controls>
+                <source src=""../audio/pinknoise_7min_128.mp3"" type=""audio/mpeg"">
+                Your browser does not support the audio element.
+            </audio>","","","","","","","",""
+"","","","","","audio-keyboard-response","11","2870018","0.0-9.0","2024-07-25T07:50:33.761Z","5_5bh0oh","null","null","GanzfeldPlay","../audio/German_Ganzfeld_Induction_v3.mp3","","","","","","","",""
+"","","","","","call-function","12","2870019","0.0-10.0-0.0","2024-07-25T07:50:33.761Z","5_5bh0oh","","","","","","","","","","","",""
+"","","","","","survey","13","3292553","0.0-10.0-1.0","2024-07-25T07:50:33.761Z","5_5bh0oh","422434","{""PCIGanz1"":6,""PCIGanz2"":6,""PCIGanz3"":1,""PCIGanz4"":6,""PCIGanz5"":5,""PCIGanz6"":3,""PCIGanz7"":0,""PCIGanz8"":0,""PCIGanz9"":0,""PCIGanz10"":1,""PCIGanz11"":5,""PCIGanz12"":6,""PCIGanz13"":4,""PCIIntro"":null}","PCIGanzfeld","","","","","","","","",""
+"","","","","","call-function","14","3292554","0.0-10.0-2.0","2024-07-25T07:50:33.761Z","5_5bh0oh","","","","","","","","","","","",""
+"","","","","","survey","15","3356777","0.0-11.0","2024-07-25T07:50:33.761Z","5_5bh0oh","64212","{""DSSQ"":{""DSSQ04"":1,""DSSQ08"":1,""DSSQ02"":2,""DSSQ06"":3,""DSSQ07"":1,""DSSQ05"":4,""DSSQ03"":1,""DSSQ01"":2},""DSSQIntro"":null}","DSSQ","","","","","","","","",""
+"","","","","","html-slider-response","16","3363783","0.0-12.0","2024-07-25T07:50:33.761Z","5_5bh0oh","7005","19","time1","<p><i>Bitte beantworten Sie die folgenden beiden Fragen zu Ihren Erfahrungen während der 30 Minuten Ganzfeld.</i></p>
+            <p>1. Wie oft haben Sie <b>während der Aufgabe</b> an die Zeit gedacht?</p>","50","","","","","","",""
+"","","","","","html-slider-response","17","3366935","0.0-13.0","2024-07-25T07:50:33.761Z","5_5bh0oh","3151","100","time2","<p><i>Bitte beantworten Sie die folgenden beiden Fragen zu Ihren Erfahrungen während der 30 Minuten Ganzfeld.</i></p>
+            <p>2. Wie schnell verging die Zeit für Sie <b>während der Aufgabe</b>?</p>","50","","","","","","",""
+"","","","","","html-button-response","18","3367902","0.0-14.0","2024-07-25T07:50:33.761Z","5_5bh0oh","967","0","videoIntro","<p>Jetzt möchten wir, dass Sie sich zwei kurze Videos ansehen und bewerten, wie ähnlich sie Ihrem Ganzfeld-Erlebnis sind.</p>
+            <p>Bitte klicken Sie auf ""Weiter"", wenn Sie bereit sind.</p>","","","2","1","2","../video/10 B We are going to need a bigger boat.mp4","../video/10 C Sichuan Opera.mp4",""
+"true","false","[]","[]","[]","preload","19","3390418","0.0-15.0","2024-07-25T07:50:33.761Z","5_5bh0oh","","","","","","","","","","","",""
+"","","","","","survey-html-form","20","3539160","0.0-16.0-0.0","2024-07-25T07:50:33.761Z","5_5bh0oh","148736","{""ClipA"":""100"",""ClipB"":""0""}","videoRating","","","","","","","","",""
+"","","","","","html-button-response","21","3540302","0.0-17.0","2024-07-25T07:50:33.761Z","5_5bh0oh","1141","0","videoTargetIntro","<p>Wir werden jetzt das Zielvideo auswählen.</p><p>Bitte sehen Sie sich das ausgewählte Video ein zweites Mal an.</p>","","","","","","","","[""../video/10 C Sichuan Opera.mp4""]"
