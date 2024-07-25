@@ -30,3 +30,4 @@
 "true","false","[]","[]","[]","preload","19","3432095","0.0-15.0","2024-07-25T09:17:45.741Z","5_xnshub","","","","","","","","","","","",""
 "","","","","","survey-html-form","20","3612404","0.0-16.0-0.0","2024-07-25T09:17:45.741Z","5_xnshub","180306","{""ClipA"":""11"",""ClipB"":""6""}","videoRating","","","","","","","","",""
 "","","","","","html-button-response","21","3620572","0.0-17.0","2024-07-25T09:17:45.741Z","5_xnshub","8167","0","videoTargetIntro","<p>Wir werden jetzt das Zielvideo auswählen.</p><p>Bitte sehen Sie sich das ausgewählte Video ein zweites Mal an.</p>","","","","","","","","[""../video/16 B Cheetah hunt.mp4""]"
+"","","","","","video-keyboard-response","22","3685267","0.0-18.0","2024-07-25T09:17:45.741Z","5_xnshub","null","null","videoTarget","[""../video/16 B Cheetah hunt.mp4""]","","","","","","","",""
