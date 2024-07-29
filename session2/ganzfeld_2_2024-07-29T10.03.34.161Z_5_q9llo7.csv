@@ -30,3 +30,4 @@
 "true","false","[]","[]","[]","preload","19","2701117","0.0-15.0","2024-07-29T10:03:34.161Z","5_q9llo7","","","","","","","","","","","",""
 "","","","","","survey-html-form","20","2847400","0.0-16.0-0.0","2024-07-29T10:03:34.161Z","5_q9llo7","146279","{""ClipA"":""80"",""ClipB"":""5""}","videoRating","","","","","","","","",""
 "","","","","","html-button-response","21","2853120","0.0-17.0","2024-07-29T10:03:34.161Z","5_q9llo7","5719","0","videoTargetIntro","<p>Wir werden jetzt das Zielvideo auswählen.</p><p>Bitte sehen Sie sich das ausgewählte Video ein zweites Mal an.</p>","","","","","","","","[""../video/20 D The Sorcerer’s Apprentice.mp4""]"
+"","","","","","video-keyboard-response","22","2913951","0.0-18.0","2024-07-29T10:03:34.161Z","5_q9llo7","null","null","videoTarget","[""../video/20 D The Sorcerer’s Apprentice.mp4""]","","","","","","","",""
