@@ -30,3 +30,4 @@
 "true","false","[]","[]","[]","preload","19","2913105","0.0-15.0","2024-08-08T15:50:54.581Z","5_r8oc4p","","","","","","","","","","","",""
 "","","","","","survey-html-form","20","3115949","0.0-16.0-0.0","2024-08-08T15:50:54.581Z","5_r8oc4p","202843","{""ClipA"":""18"",""ClipB"":""88""}","videoRating","","","","","","","","",""
 "","","","","","html-button-response","21","3124165","0.0-17.0","2024-08-08T15:50:54.581Z","5_r8oc4p","8214","0","videoTargetIntro","<p>Wir werden jetzt das Zielvideo auswählen.</p><p>Bitte sehen Sie sich das ausgewählte Video ein zweites Mal an.</p>","","","","","","","","[""../video/19 A La Haine.mp4""]"
+"","","","","","video-keyboard-response","22","3185461","0.0-18.0","2024-08-08T15:50:54.581Z","5_r8oc4p","null","null","videoTarget","[""../video/19 A La Haine.mp4""]","","","","","","","",""
