@@ -30,3 +30,4 @@
 "true","false","[]","[]","[]","preload","19","3311797","0.0-15.0","2024-08-09T14:55:41.131Z","5_7wz7vj","","","","","","","","","","","",""
 "","","","","","survey-html-form","20","3519623","0.0-16.0-0.0","2024-08-09T14:55:41.131Z","5_7wz7vj","207833","{""ClipA"":""70"",""ClipB"":""10""}","videoRating","","","","","","","","",""
 "","","","","","html-button-response","21","3525910","0.0-17.0","2024-08-09T14:55:41.131Z","5_7wz7vj","6286","0","videoTargetIntro","<p>Wir werden jetzt das Zielvideo auswählen.</p><p>Bitte sehen Sie sich das ausgewählte Video ein zweites Mal an.</p>","","","","","","","","[""../video/23 D Aberfan disaster.mp4""]"
+"","","","","","video-keyboard-response","22","3587426","0.0-18.0","2024-08-09T14:55:41.131Z","5_7wz7vj","null","null","videoTarget","[""../video/23 D Aberfan disaster.mp4""]","","","","","","","",""
