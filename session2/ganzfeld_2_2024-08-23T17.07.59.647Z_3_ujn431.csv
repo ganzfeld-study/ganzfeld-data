@@ -29,3 +29,4 @@
 "true","false","[]","[]","[]","preload","19","8438852","0.0-15.0","2024-08-23T17:07:59.647Z","3_ujn431","","","","","","","","","","","",""
 "","","","","","survey-html-form","20","8569364","0.0-16.0-0.0","2024-08-23T17:07:59.647Z","3_ujn431","130505","{""ClipA"":""0"",""ClipB"":""3""}","videoRating","","","","","","","","",""
 "","","","","","html-button-response","21","8574169","0.0-17.0","2024-08-23T17:07:59.647Z","3_ujn431","4798","0","videoTargetIntro","<p>We will now select the target video.</p><p>Please watch the selected video a second time.</p>","","","","","","","","[""../video/15 C Falling Frogs.mp4""]"
+"","","","","","video-keyboard-response","22","8626771","0.0-18.0","2024-08-23T17:07:59.647Z","3_ujn431","null","null","videoTarget","[""../video/15 C Falling Frogs.mp4""]","","","","","","","",""
