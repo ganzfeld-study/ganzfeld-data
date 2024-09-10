@@ -1,3 +1,4 @@
 "success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
 "true","false","[]","[]","[]","preload","0","6","0.0-0.0","2024-09-10T12:57:50.690Z","5_69sqv6","","",""
 "","","","","","survey-text","1","578622","0.0-1.0","2024-09-10T12:57:50.690Z","5_69sqv6","578604","{""subject_id"":""5_69sqv6""}","welcome"
+"","","","","","survey","2","600511","0.0-2.0","2024-09-10T12:57:50.690Z","5_69sqv6","21844","{""age"":""33"",""gender"":""weiblich"",""vegetarian"":""Omnivore: eine Person, die regelmäßig die meisten Fleischsorten, Meeresfrüchte, Eier, Milchprodukte, Obst, Gemüse und Getreideprodukte isst."",""question1"":null}","survey"
