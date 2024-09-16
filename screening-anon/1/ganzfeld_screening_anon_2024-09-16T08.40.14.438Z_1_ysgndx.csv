@@ -1,0 +1,4 @@
+"view_history","rt","test_part","trial_type","trial_index","time_elapsed","internal_node_id","lab","subject","time","url","response","accuracy"
+"[{""page_index"":0,""viewing_time"":54567}]","54571","instruction","instructions","0","54574","0.0-0.0","1","1_ysgndx","2024-09-16T08:40:14.438Z","","",""
+"","10835","","external-html","1","65805","0.0-1.0","1","1_ysgndx","2024-09-16T08:40:14.438Z","consent/consent1.html","",""
+"","71681","screening","survey","2","137573","0.0-2.0","1","1_ysgndx","2024-09-16T08:40:14.438Z","","{""intro"":null,""mentality"":""(2) Sällan"",""psi"":""(3) Sällan"",""succeed"":""(2) Mycket osannolikt"",""contact"":null}","[]"
