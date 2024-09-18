@@ -1,4 +1,8 @@
-"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
-"true","false","[]","[]","[]","preload","0","13642","0.0-0.0","2024-09-18T17:00:24.106Z","3_654321","","",""
-"","","","","","survey","1","22189","0.0-1.0","2024-09-18T17:00:24.106Z","3_654321","8482","{""testrun"":""Pilot (Test run)""}","testrun"
-"","","","","","survey-text","2","24031","0.0-2.0","2024-09-18T17:00:24.106Z","3_654321","1820","{""subject_id"":""3_654321""}","welcome"
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part","stimulus","slider_start"
+"true","false","[]","[]","[]","preload","0","13642","0.0-0.0","2024-09-18T17:00:24.106Z","3_654321","","","","",""
+"","","","","","survey","1","22189","0.0-1.0","2024-09-18T17:00:24.106Z","3_654321","8482","{""testrun"":""Pilot (Test run)""}","testrun","",""
+"","","","","","survey-text","2","24031","0.0-2.0","2024-09-18T17:00:24.106Z","3_654321","1820","{""subject_id"":""3_654321""}","welcome","",""
+"","","","","","html-slider-response","3","25242","0.0-3.0","2024-09-18T17:00:24.106Z","3_654321","1208","65","successBelief","<p>Before we begin, we would like to ask you about your attitude to the experiment.</p>
+            <p style=""font-weight: bold;"">How likely do you think it is that you personally will succeed in your precognitive test today?</p>","50"
+"","","","","","html-slider-response","4","26565","0.0-4.0","2024-09-18T17:00:24.106Z","3_654321","1321","56","comfortable","<p style=""font-weight: bold;"">Do you feel comfortable with the Ganzfeld setup?</p>","50"
+"","","","","","html-button-response","5","27148","0.0-5.0","2024-09-18T17:00:24.106Z","3_654321","580","0","restIntro","<p>Next we would like you to rest in a reclining chair for 3 minutes. Press Continue when you are ready, then make yourself comfortable in the chair, and rest until you hear a beep signaling the end of the three minute interval. Afterwards you can return to this program to proceed.</p>",""
