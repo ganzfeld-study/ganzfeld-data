@@ -1,4 +1,7 @@
-"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
-"true","false","[]","[]","[]","preload","0","19686","0.0-0.0","2024-10-10T12:33:12.231Z","1_000000","","",""
-"","","","","","survey","1","23733","0.0-1.0","2024-10-10T12:33:12.231Z","1_000000","3911","{""testrun"":""Pilot (Test run)""}","testrun"
-"","","","","","survey-text","2","24839","0.0-2.0","2024-10-10T12:33:12.231Z","1_000000","1084","{""subject_id"":""1_000000""}","welcome"
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part","stimulus","slider_start"
+"true","false","[]","[]","[]","preload","0","19686","0.0-0.0","2024-10-10T12:33:12.231Z","1_000000","","","","",""
+"","","","","","survey","1","23733","0.0-1.0","2024-10-10T12:33:12.231Z","1_000000","3911","{""testrun"":""Pilot (Test run)""}","testrun","",""
+"","","","","","survey-text","2","24839","0.0-2.0","2024-10-10T12:33:12.231Z","1_000000","1084","{""subject_id"":""1_000000""}","welcome","",""
+"","","","","","html-slider-response","3","30429","0.0-3.0","2024-10-10T12:33:12.231Z","1_000000","5584","50","successBelief","<p>Before we begin, we would like to ask you about your attitude to the experiment.</p>
+            <p style=""font-weight: bold;"">How likely do you think it is that you personally will succeed in your precognitive test today?</p>","50"
+"","","","","","html-slider-response","4","32318","0.0-4.0","2024-10-10T12:33:12.231Z","1_000000","1887","50","comfortable","<p style=""font-weight: bold;"">Do you feel comfortable with the Ganzfeld setup?</p>","50"
