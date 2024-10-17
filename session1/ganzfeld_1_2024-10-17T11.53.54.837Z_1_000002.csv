@@ -1,3 +1,4 @@
 "success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
 "true","false","[]","[]","[]","preload","0","10","0.0-0.0","2024-10-17T11:53:54.837Z","1_000002","","",""
 "","","","","","survey-text","1","9138","0.0-1.0","2024-10-17T11:53:54.837Z","1_000002","9099","{""subject_id"":""1_000002""}","welcome"
+"","","","","","survey","2","39065","0.0-2.0","2024-10-17T11:53:54.837Z","1_000002","29836","{""age"":""37"",""gender"":""kvinna"",""vegetarian"":""Kött-reducerare: en person som äter mejeriprodukter, ägg, frukt, grönsaker, spannmål och en minskad mängd animaliska produkter eller skaldjursprodukter. Till exempel en pescetarian (som äter fisk men inga andra djur) eller någon som eliminerar eller minskar sin konsumtion av rött kött"",""question1"":null}","survey"
