@@ -1,0 +1,4 @@
+"view_history","rt","test_part","trial_type","trial_index","time_elapsed","internal_node_id","lab","subject","time","url","response","accuracy"
+"[{""page_index"":0,""viewing_time"":14880}]","14884","instruction","instructions","0","14900","0.0-0.0","3","3_kpflab","2024-10-19T11:31:18.703Z","","",""
+"","337962","","external-html","1","353533","0.0-1.0","3","3_kpflab","2024-10-19T11:31:18.703Z","consent/consent3.html","",""
+"","134125","screening","survey","2","487963","0.0-2.0","3","3_kpflab","2024-10-19T11:31:18.703Z","","{""intro"":null,""mentality"":""(5) On a weekly basis"",""psi"":""(5) Frequently"",""succeed"":""(5) Yes"",""contact"":null}","[]"
