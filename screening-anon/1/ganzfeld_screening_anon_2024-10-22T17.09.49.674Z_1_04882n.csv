@@ -1,0 +1,4 @@
+"view_history","rt","test_part","trial_type","trial_index","time_elapsed","internal_node_id","lab","subject","time","url","response","accuracy"
+"[{""page_index"":0,""viewing_time"":19313}]","19314","instruction","instructions","0","19314","0.0-0.0","1","1_04882n","2024-10-22T17:09:49.674Z","","",""
+"","6537","","external-html","1","25992","0.0-1.0","1","1_04882n","2024-10-22T17:09:49.674Z","consent/consent1.html","",""
+"","74719","screening","survey","2","100787","0.0-2.0","1","1_04882n","2024-10-22T17:09:49.674Z","","{""intro"":null,""mentality"":""(5) På veckobasis"",""psi"":""(1) Aldrig"",""succeed"":""(1) Inte alls"",""contact"":null}","[]"
