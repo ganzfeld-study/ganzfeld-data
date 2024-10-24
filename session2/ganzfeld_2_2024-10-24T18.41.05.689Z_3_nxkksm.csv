@@ -1,4 +1,34 @@
-"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
-"true","false","[]","[]","[]","preload","0","11503","0.0-0.0","2024-10-24T18:41:05.689Z","3_nxkksm","","",""
-"","","","","","survey","1","174810","0.0-1.0","2024-10-24T18:41:05.689Z","3_nxkksm","163240","{""testrun"":""Experiment""}","testrun"
-"","","","","","survey-text","2","1324066","0.0-2.0","2024-10-24T18:41:05.689Z","3_nxkksm","1149242","{""subject_id"":""3_nxkksm""}","welcome"
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part","stimulus","slider_start","value","view_history","rndSet","rndV1","rndV2","videoA","videoB","videoStimulus"
+"true","false","[]","[]","[]","preload","0","11503","0.0-0.0","2024-10-24T18:41:05.689Z","3_nxkksm","","","","","","","","","","","","",""
+"","","","","","survey","1","174810","0.0-1.0","2024-10-24T18:41:05.689Z","3_nxkksm","163240","{""testrun"":""Experiment""}","testrun","","","","","","","","","",""
+"","","","","","survey-text","2","1324066","0.0-2.0","2024-10-24T18:41:05.689Z","3_nxkksm","1149242","{""subject_id"":""3_nxkksm""}","welcome","","","","","","","","","",""
+"","","","","","html-slider-response","3","1382373","0.0-3.0","2024-10-24T18:41:05.689Z","3_nxkksm","58293","57","successBelief","<p>Before we begin, we would like to ask you about your attitude to the experiment.</p>
+            <p style=""font-weight: bold;"">How likely do you think it is that you personally will succeed in your precognitive test today?</p>","50","","","","","","","",""
+"","","","","","html-slider-response","4","1394032","0.0-4.0","2024-10-24T18:41:05.689Z","3_nxkksm","11653","100","comfortable","<p style=""font-weight: bold;"">Do you feel comfortable with the Ganzfeld setup?</p>","50","","","","","","","",""
+"","","","","","html-button-response","5","1420952","0.0-5.0","2024-10-24T18:41:05.689Z","3_nxkksm","26913","0","restIntro","<p>Next we would like you to rest in a reclining chair for 3 minutes. Press Continue when you are ready, then make yourself comfortable in the chair, and rest until you hear a beep signaling the end of the three minute interval. Afterwards you can return to this program to proceed.</p>","","","","","","","","",""
+"","","","","","html-keyboard-response","6","1603623","0.0-6.0","2024-10-24T18:41:05.689Z","3_nxkksm","null","null","rest","","","","","","","","","",""
+"","","","","","call-function","7","1603628","0.0-7.0-0.0","2024-10-24T18:41:05.689Z","3_nxkksm","","","","","","","","","","","","",""
+"","","","","","survey","8","1826162","0.0-7.0-1.0","2024-10-24T18:41:05.689Z","3_nxkksm","222418","{""PCIRest1"":5,""PCIRest2"":5,""PCIRest4"":5,""PCIRest3"":3,""PCIRest5"":6,""PCIRest6"":1,""PCIRest7"":3,""PCIRest8"":1,""PCIRest9"":1,""PCIRest10"":1,""PCIRest11"":2,""PCIRest12"":3,""PCIRest13"":4,""PCIIntro"":null}","PCIRest","","","","","","","","","",""
+"","","","","","call-function","9","1826164","0.0-7.0-2.0","2024-10-24T18:41:05.689Z","3_nxkksm","","","","","","","","","","","","",""
+"","","","","","instructions","10","1911788","0.0-8.0","2024-10-24T18:41:05.689Z","3_nxkksm","85623","","instructions1","","","","[{""page_index"":0,""viewing_time"":85622}]","","","","","",""
+"","","","","","html-button-response","11","2034608","0.0-9.0","2024-10-24T18:41:05.689Z","3_nxkksm","122820","0","GanzfeldIntro","<p>Please tell the experimenter to assist you with the Ganzfeld equipment. The experimenter will click ""Continue"" when you are ready to begin.</p>
+            <p>The audio level for the ganzfeld can be adjusted while playing the audio sample below.</p>
+            <audio controls>
+                <source src=""../audio/pinknoise_7min_128.mp3"" type=""audio/mpeg"">
+                Your browser does not support the audio element.
+            </audio>","","","","","","","","",""
+"","","","","","audio-keyboard-response","12","4224778","0.0-10.0","2024-10-24T18:41:05.689Z","3_nxkksm","null","null","GanzfeldPlay","../audio/English_Ganzfeld_Induction_v4.mp3","","","","","","","","",""
+"","","","","","call-function","13","4224783","0.0-11.0-0.0","2024-10-24T18:41:05.689Z","3_nxkksm","","","","","","","","","","","","",""
+"","","","","","survey","14","4611021","0.0-11.0-1.0","2024-10-24T18:41:05.689Z","3_nxkksm","386058","{""PCIGanz1"":5,""PCIGanz2"":4,""PCIGanz3"":3,""PCIGanz4"":6,""PCIGanz5"":4,""PCIGanz6"":4,""PCIGanz7"":4,""PCIGanz8"":1,""PCIGanz9"":1,""PCIGanz10"":2,""PCIGanz11"":2,""PCIGanz12"":5,""PCIGanz13"":4,""PCIIntro"":null}","PCIGanzfeld","","","","","","","","","",""
+"","","","","","call-function","15","4611024","0.0-11.0-2.0","2024-10-24T18:41:05.689Z","3_nxkksm","","","","","","","","","","","","",""
+"","","","","","survey","16","4778485","0.0-12.0","2024-10-24T18:41:05.689Z","3_nxkksm","167439","{""DSSQ"":{""DSSQ01"":3,""DSSQ02"":2,""DSSQ03"":1,""DSSQ04"":2,""DSSQ05"":4,""DSSQ06"":1,""DSSQ07"":1,""DSSQ08"":1},""DSSQIntro"":null}","DSSQ","","","","","","","","","",""
+"","","","","","html-slider-response","17","4798589","0.0-13.0","2024-10-24T18:41:05.689Z","3_nxkksm","20100","6","time1","<p><i>Please answer the following two questions about your experiences during the 30 minutes of Ganzfeld.</i></p>
+            <p>1. How often did you think about time <b>during the task</b>?</p>","50","","","","","","","",""
+"","","","","","html-slider-response","18","4814972","0.0-14.0","2024-10-24T18:41:05.689Z","3_nxkksm","16376","97","time2","<p><i>Please answer the following two questions about your experiences during the 30 minutes of Ganzfeld.</i></p>
+            <p>2. How fast did time pass for you <b>during the task</b>?</p>","50","","","","","","","",""
+"","","","","","instructions","19","4906478","0.0-15.0","2024-10-24T18:41:05.689Z","3_nxkksm","91503","","instructions2","","","","[{""page_index"":0,""viewing_time"":91502}]","","","","","",""
+"","","","","","html-button-response","20","4912428","0.0-16.0","2024-10-24T18:41:05.689Z","3_nxkksm","5943","0","videoIntro","<p>Now we would like you to watch two short videos and rate how similar they are to your Ganzfeld experience.</p><p>Please click ""Continue"" when you are ready.</p>","","","","2","0","3","../video/10 A Travelling through Dreams.mp4","../video/10 D Rifle Prayer.mp4",""
+"true","false","[]","[]","[]","preload","21","4918351","0.0-17.0","2024-10-24T18:41:05.689Z","3_nxkksm","","","","","","","","","","","","",""
+"","","","","","survey-html-form","22","5202803","0.0-18.0-0.0","2024-10-24T18:41:05.689Z","3_nxkksm","284442","{""ClipA"":""19"",""ClipB"":""3""}","videoRating","","","","","","","","","",""
+"","","","","","html-button-response","23","5207326","0.0-19.0","2024-10-24T18:41:05.689Z","3_nxkksm","4515","0","videoTargetIntro","<p>We will now select the target video.</p><p>Please watch the selected video a second time.</p>","","","","","","","","","[""../video/10 A Travelling through Dreams.mp4""]"
+"","","","","","video-keyboard-response","24","5272065","0.0-20.0","2024-10-24T18:41:05.689Z","3_nxkksm","null","null","videoTarget","[""../video/10 A Travelling through Dreams.mp4""]","","","","","","","","",""
