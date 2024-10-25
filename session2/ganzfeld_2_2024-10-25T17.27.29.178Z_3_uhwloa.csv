@@ -11,3 +11,9 @@
 "","","","","","survey","8","6257177","0.0-7.0-1.0","2024-10-25T17:27:29.178Z","3_uhwloa","334948","{""PCIRest1"":5,""PCIRest2"":4,""PCIRest3"":4,""PCIRest4"":0,""PCIRest5"":4,""PCIRest6"":1,""PCIRest7"":2,""PCIRest8"":4,""PCIRest9"":0,""PCIRest10"":5,""PCIRest11"":3,""PCIRest12"":2,""PCIRest13"":3,""PCIIntro"":null}","PCIRest","","","",""
 "","","","","","call-function","9","6257179","0.0-7.0-2.0","2024-10-25T17:27:29.178Z","3_uhwloa","","","","","","",""
 "","","","","","instructions","10","6368294","0.0-8.0","2024-10-25T17:27:29.178Z","3_uhwloa","111116","","instructions1","","","","[{""page_index"":0,""viewing_time"":111116}]"
+"","","","","","html-button-response","11","6745362","0.0-9.0","2024-10-25T17:27:29.178Z","3_uhwloa","377069","0","GanzfeldIntro","<p>Please tell the experimenter to assist you with the Ganzfeld equipment. The experimenter will click ""Continue"" when you are ready to begin.</p>
+            <p>The audio level for the ganzfeld can be adjusted while playing the audio sample below.</p>
+            <audio controls>
+                <source src=""../audio/pinknoise_7min_128.mp3"" type=""audio/mpeg"">
+                Your browser does not support the audio element.
+            </audio>","","",""
