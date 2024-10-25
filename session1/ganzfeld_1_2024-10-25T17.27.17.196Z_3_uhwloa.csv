@@ -1,0 +1,3 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
+"true","false","[]","[]","[]","preload","0","11","0.0-0.0","2024-10-25T17:27:17.196Z","3_uhwloa","","",""
+"","","","","","survey-text","1","2489075","0.0-1.0","2024-10-25T17:27:17.196Z","3_uhwloa","2489229","{""subject_id"":""3_uhwloa""}","welcome"
