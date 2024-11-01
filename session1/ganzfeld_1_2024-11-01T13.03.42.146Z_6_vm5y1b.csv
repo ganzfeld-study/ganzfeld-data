@@ -1,0 +1,3 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
+"true","false","[]","[]","[]","preload","0","16","0.0-0.0","2024-11-01T13:03:42.146Z","6_vm5y1b","","",""
+"","","","","","survey-text","1","38520","0.0-1.0","2024-11-01T13:03:42.146Z","6_vm5y1b","38471","{""subject_id"":""6_vm5y1b""}","welcome"
