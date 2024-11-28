@@ -1,3 +1,10 @@
-"rt","response","test_part","trial_type","trial_index","time_elapsed","internal_node_id","time","subject"
-"10588","{""testrun"":""Pilot (Testkörning)""}","testrun","survey","0","10603","0.0-0.0","2024-11-28T10:23:56.859Z","1_testt4"
-"26523","{""subject_id"":""1_testt4""}","welcome","survey-text","1","37131","0.0-1.0","2024-11-28T10:23:56.859Z","1_testt4"
+"rt","response","test_part","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","view_history","stimulus","rndSet","rndV1","rndV2","videoA","videoB","success","timeout","failed_images","failed_audio","failed_video","videoStimulus"
+"10588","{""testrun"":""Pilot (Testkörning)""}","testrun","survey","0","10603","0.0-0.0","2024-11-28T10:23:56.859Z","1_testt4","","","","","","","","","","","","",""
+"26523","{""subject_id"":""1_testt4""}","welcome","survey-text","1","37131","0.0-1.0","2024-11-28T10:23:56.859Z","1_testt4","","","","","","","","","","","","",""
+"1318","","instructions2","instructions","2","38449","0.0-2.0","2024-11-28T10:23:56.859Z","1_testt4","[{""page_index"":0,""viewing_time"":1318}]","","","","","","","","","","","",""
+"1049","0","videoIntro","html-button-response","3","39500","0.0-3.0","2024-11-28T10:23:56.859Z","1_testt4","","<p>Nu vill vi att du tittar på två korta videoklipp och bedömer hur lika de är din Ganzfeld-upplevelse.</p>
+            <p>Klicka på ""Nästa"" för att fortsätta.</p>","18","1","2","../video/26 B Affectionate Monkeys.mp4","../video/26 C Neo Interrogation.mp4","","","","","",""
+"","","","preload","4","52130","0.0-4.0","2024-11-28T10:23:56.859Z","1_testt4","","","","","","","","true","false","[]","[]","[]",""
+"3804","{""ClipA"":""100"",""ClipB"":""0""}","videoRating","survey-html-form","5","55948","0.0-5.0-0.0","2024-11-28T10:23:56.859Z","1_testt4","","","","","","","","","","","","",""
+"979","0","videoTargetIntro","html-button-response","6","56927","0.0-6.0","2024-11-28T10:23:56.859Z","1_testt4","","<p>Vi kommer nu att visa det klipp som är måltavlan.</p><p>Vänligen titta noggrant på hela klippet en andra gång.</p>","","","","","","","","","","","[""../video/26 B Affectionate Monkeys.mp4""]"
+"null","null","videoTarget","video-keyboard-response","7","60061","0.0-7.0","2024-11-28T10:23:56.859Z","1_testt4","","[""../video/26 B Affectionate Monkeys.mp4""]","","","","","","","","","","",""
