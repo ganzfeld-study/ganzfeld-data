@@ -1,0 +1,3 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
+"true","false","[]","[]","[]","preload","0","4","0.0-0.0","2024-12-05T09:00:22.617Z","5_jvy4ly","","",""
+"","","","","","survey-text","1","73789","0.0-1.0","2024-12-05T09:00:22.617Z","5_jvy4ly","73775","{""subject_id"":""5_jvy4ly""}","welcome"
