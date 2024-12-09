@@ -1,3 +1,10 @@
-"rt","response","test_part","trial_type","trial_index","time_elapsed","internal_node_id","time","subject"
-"3960","{""testrun"":""Experiment""}","testrun","survey","0","4210","0.0-0.0","2024-12-09T14:19:29.662Z","1_000004"
-"11828","{""subject_id"":""1_000004""}","welcome","survey-text","1","16083","0.0-1.0","2024-12-09T14:19:29.662Z","1_000004"
+"rt","response","test_part","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","view_history","stimulus","rndSet","rndV1","rndV2","videoA","videoB","success","timeout","failed_images","failed_audio","failed_video","videoStimulus"
+"3960","{""testrun"":""Experiment""}","testrun","survey","0","4210","0.0-0.0","2024-12-09T14:19:29.662Z","1_000004","","","","","","","","","","","","",""
+"11828","{""subject_id"":""1_000004""}","welcome","survey-text","1","16083","0.0-1.0","2024-12-09T14:19:29.662Z","1_000004","","","","","","","","","","","","",""
+"19335","","instructions2","instructions","2","35426","0.0-2.0","2024-12-09T14:19:29.662Z","1_000004","[{""page_index"":0,""viewing_time"":19333}]","","","","","","","","","","","",""
+"1999","0","videoIntro","html-button-response","3","37434","0.0-3.0","2024-12-09T14:19:29.662Z","1_000004","","<p>Nu vill vi att du tittar på två korta videoklipp och bedömer hur lika de är din Ganzfeld-upplevelse.</p>
+            <p>Klicka på ""Nästa"" för att fortsätta.</p>","18","1","2","../video/26 B Affectionate Monkeys.mp4","../video/26 C Neo Interrogation.mp4","","","","","",""
+"","","","preload","4","45482","0.0-4.0","2024-12-09T14:19:29.662Z","1_000004","","","","","","","","true","false","[]","[]","[]",""
+"173540","{""ClipA"":""20"",""ClipB"":""15""}","videoRating","survey-html-form","5","219090","0.0-5.0-0.0","2024-12-09T14:19:29.662Z","1_000004","","","","","","","","","","","","",""
+"2759","0","videoTargetIntro","html-button-response","6","221857","0.0-6.0","2024-12-09T14:19:29.662Z","1_000004","","<p>Vi kommer nu att visa det klipp som är måltavlan.</p><p>Vänligen titta noggrant på hela klippet en andra gång.</p>","","","","","","","","","","","[""../video/26 C Neo Interrogation.mp4""]"
+"null","null","videoTarget","video-keyboard-response","7","282338","0.0-7.0","2024-12-09T14:19:29.662Z","1_000004","","[""../video/26 C Neo Interrogation.mp4""]","","","","","","","","","","",""
