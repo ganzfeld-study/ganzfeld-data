@@ -19,3 +19,10 @@
             </audio>","","",""
 "","","","","","audio-keyboard-response","12","2765777","0.0-10.0","2024-12-13T10:37:19.301Z","2_9xxr0e","null","null","GanzfeldPlay","../audio/English_Ganzfeld_Induction_v4.mp3","","",""
 "","","","","","call-function","13","2765786","0.0-11.0-0.0","2024-12-13T10:37:19.301Z","2_9xxr0e","","","","","","",""
+"","","","","","survey","14","3354560","0.0-11.0-1.0","2024-12-13T10:37:19.301Z","2_9xxr0e","588497","{""PCIGanz1"":5,""PCIGanz2"":5,""PCIGanz3"":1,""PCIGanz4"":2,""PCIGanz5"":6,""PCIGanz6"":0,""PCIGanz7"":0,""PCIGanz8"":0,""PCIGanz9"":4,""PCIGanz10"":1,""PCIGanz11"":5,""PCIGanz12"":5,""PCIGanz13"":6,""PCIIntro"":null}","PCIGanzfeld","","","",""
+"","","","","","call-function","15","3354563","0.0-11.0-2.0","2024-12-13T10:37:19.301Z","2_9xxr0e","","","","","","",""
+"","","","","","survey","16","3398928","0.0-12.0","2024-12-13T10:37:19.301Z","2_9xxr0e","44331","{""DSSQ"":{""DSSQ01"":1,""DSSQ02"":2,""DSSQ03"":1,""DSSQ04"":1,""DSSQ05"":1,""DSSQ06"":1,""DSSQ07"":1,""DSSQ08"":1},""DSSQIntro"":null}","DSSQ","","","",""
+"","","","","","html-slider-response","17","3410463","0.0-13.0","2024-12-13T10:37:19.301Z","2_9xxr0e","11526","9","time1","<p><i>Please answer the following two questions about your experiences during the 30 minutes of Ganzfeld.</i></p>
+            <p>1. How often did you think about time <b>during the task</b>?</p>","50","",""
+"","","","","","html-slider-response","18","3420109","0.0-14.0","2024-12-13T10:37:19.301Z","2_9xxr0e","9640","79","time2","<p><i>Please answer the following two questions about your experiences during the 30 minutes of Ganzfeld.</i></p>
+            <p>2. How fast did time pass for you <b>during the task</b>?</p>","50","",""
