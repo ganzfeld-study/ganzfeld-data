@@ -1,4 +1,19 @@
-"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
-"true","false","[]","[]","[]","preload","0","41381","0.0-0.0","2024-12-13T10:37:19.301Z","2_9xxr0e","","",""
-"","","","","","survey","1","51049","0.0-1.0","2024-12-13T10:37:19.301Z","2_9xxr0e","9632","{""testrun"":""Experiment""}","testrun"
-"","","","","","survey-text","2","53265","0.0-2.0","2024-12-13T10:37:19.301Z","2_9xxr0e","2161","{""subject_id"":""2_9xxr0e""}","welcome"
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part","stimulus","slider_start","value","view_history"
+"true","false","[]","[]","[]","preload","0","41381","0.0-0.0","2024-12-13T10:37:19.301Z","2_9xxr0e","","","","","","",""
+"","","","","","survey","1","51049","0.0-1.0","2024-12-13T10:37:19.301Z","2_9xxr0e","9632","{""testrun"":""Experiment""}","testrun","","","",""
+"","","","","","survey-text","2","53265","0.0-2.0","2024-12-13T10:37:19.301Z","2_9xxr0e","2161","{""subject_id"":""2_9xxr0e""}","welcome","","","",""
+"","","","","","html-slider-response","3","57684","0.0-3.0","2024-12-13T10:37:19.301Z","2_9xxr0e","4413","77","successBelief","<p>Before we begin, we would like to ask you about your attitude to the experiment.</p>
+            <p style=""font-weight: bold;"">How likely do you think it is that you personally will succeed in your precognitive test today?</p>","50","",""
+"","","","","","html-slider-response","4","62297","0.0-4.0","2024-12-13T10:37:19.301Z","2_9xxr0e","4608","100","comfortable","<p style=""font-weight: bold;"">Do you feel comfortable with the Ganzfeld setup?</p>","50","",""
+"","","","","","html-button-response","5","68094","0.0-5.0","2024-12-13T10:37:19.301Z","2_9xxr0e","5791","0","restIntro","<p>Next we would like you to rest in a reclining chair for 3 minutes. Press Continue when you are ready, then make yourself comfortable in the chair, and rest until you hear a beep signaling the end of the three minute interval. Afterwards you can return to this program to proceed.</p>","","",""
+"","","","","","html-keyboard-response","6","250765","0.0-6.0","2024-12-13T10:37:19.301Z","2_9xxr0e","null","null","rest","","","",""
+"","","","","","call-function","7","250768","0.0-7.0-0.0","2024-12-13T10:37:19.301Z","2_9xxr0e","","","","","","",""
+"","","","","","survey","8","361355","0.0-7.0-1.0","2024-12-13T10:37:19.301Z","2_9xxr0e","110445","{""PCIRest1"":5,""PCIRest2"":1,""PCIRest3"":3,""PCIRest4"":3,""PCIRest5"":4,""PCIRest6"":4,""PCIRest7"":2,""PCIRest8"":3,""PCIRest9"":2,""PCIRest10"":3,""PCIRest11"":4,""PCIRest12"":1,""PCIRest13"":3,""PCIIntro"":null}","PCIRest","","","",""
+"","","","","","call-function","9","361358","0.0-7.0-2.0","2024-12-13T10:37:19.301Z","2_9xxr0e","","","","","","",""
+"","","","","","instructions","10","544159","0.0-8.0","2024-12-13T10:37:19.301Z","2_9xxr0e","182796","","instructions1","","","","[{""page_index"":0,""viewing_time"":182795}]"
+"","","","","","html-button-response","11","571738","0.0-9.0","2024-12-13T10:37:19.301Z","2_9xxr0e","27570","0","GanzfeldIntro","<p>Please tell the experimenter to assist you with the Ganzfeld equipment. The experimenter will click ""Continue"" when you are ready to begin.</p>
+            <p>The audio level for the ganzfeld can be adjusted while playing the audio sample below.</p>
+            <audio controls>
+                <source src=""../audio/pinknoise_7min_128.mp3"" type=""audio/mpeg"">
+                Your browser does not support the audio element.
+            </audio>","","",""
