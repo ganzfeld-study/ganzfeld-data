@@ -1,0 +1,3 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
+"true","false","[]","[]","[]","preload","0","52","0.0-0.0","2025-01-08T17:29:40.463Z","C_232331","","",""
+"","","","","","survey-text","1","179257","0.0-1.0","2025-01-08T17:29:40.463Z","C_232331","178976","{""subject_id"":""C_232331""}","welcome"
