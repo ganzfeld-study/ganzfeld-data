@@ -1,3 +1,4 @@
 "success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
 "true","false","[]","[]","[]","preload","0","52","0.0-0.0","2025-01-08T17:29:40.463Z","C_232331","","",""
 "","","","","","survey-text","1","179257","0.0-1.0","2025-01-08T17:29:40.463Z","C_232331","178976","{""subject_id"":""C_232331""}","welcome"
+"","","","","","survey","2","185893","0.0-2.0","2025-01-08T17:29:40.463Z","C_232331","6529","{""age"":""68"",""gender"":""female"",""vegetarian"":""Meat reducer: a person who eats dairy products, eggs, fruits, vegetables, grains, and a reduced amount of animal or seafood products. For example, a pescetarian (who eats fish but no other animals) or someone who eliminates or reduces their consumption of red meat"",""question1"":null}","survey"
