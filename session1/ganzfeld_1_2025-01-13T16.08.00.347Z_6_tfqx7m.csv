@@ -1,0 +1,3 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
+"true","false","[]","[]","[]","preload","0","23","0.0-0.0","2025-01-13T16:08:00.347Z","6_tfqx7m","","",""
+"","","","","","survey-text","1","84045","0.0-1.0","2025-01-13T16:08:00.347Z","6_tfqx7m","83988","{""subject_id"":""6_tfqx7m""}","welcome"
