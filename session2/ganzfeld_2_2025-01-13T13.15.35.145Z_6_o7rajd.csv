@@ -1,4 +1,8 @@
-"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
-"true","false","[]","[]","[]","preload","0","29505","0.0-0.0","2025-01-13T13:15:35.145Z","6_o7rajd","","",""
-"","","","","","survey","1","37534","0.0-1.0","2025-01-13T13:15:35.145Z","6_o7rajd","7937","{""testrun"":""Experiment""}","testrun"
-"","","","","","survey-text","2","2163575","0.0-2.0","2025-01-13T13:15:35.145Z","6_o7rajd","2130524","{""subject_id"":""6_o7rajd""}","welcome"
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part","stimulus","slider_start"
+"true","false","[]","[]","[]","preload","0","29505","0.0-0.0","2025-01-13T13:15:35.145Z","6_o7rajd","","","","",""
+"","","","","","survey","1","37534","0.0-1.0","2025-01-13T13:15:35.145Z","6_o7rajd","7937","{""testrun"":""Experiment""}","testrun","",""
+"","","","","","survey-text","2","2163575","0.0-2.0","2025-01-13T13:15:35.145Z","6_o7rajd","2130524","{""subject_id"":""6_o7rajd""}","welcome","",""
+"","","","","","html-slider-response","3","2182539","0.0-3.0","2025-01-13T13:15:35.145Z","6_o7rajd","18956","44","successBelief","<p>Bevor wir beginnen, möchten wir Sie nach Ihrer Einstellung zum Experiment fragen.</p>
+            <p style=""font-weight: bold;"">Wie wahrscheinlich halten Sie es, dass Sie persönlich bei Ihrem heutigen präkognitiven Test erfolgreich sein werden?</p>","50"
+"","","","","","html-slider-response","4","2192009","0.0-4.0","2025-01-13T13:15:35.145Z","6_o7rajd","9465","96","comfortable","<p style=""font-weight: bold;"">Fühlen Sie sich wohl mit dem Ganzfeld-Setup?</p>","50"
+"","","","","","html-button-response","5","2247674","0.0-5.0","2025-01-13T13:15:35.145Z","6_o7rajd","55660","0","restIntro","<p>Als nächstes möchten wir Sie bitten, sich für 3 Minuten auf einen bequemen Stuhl zu setzen. Drücken Sie auf ""Weiter"", wenn Sie bereit sind, machen Sie es sich dann im Stuhl bequem und ruhen Sie sich aus, bis Sie ein Signalton am Ende des dreiminütigen Intervalls hören. Danach können Sie zu diesem Programm zurückkehren, um fortzufahren.</p>",""
