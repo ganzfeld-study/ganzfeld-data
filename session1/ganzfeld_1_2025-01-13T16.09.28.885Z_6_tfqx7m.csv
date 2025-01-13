@@ -1,3 +1,4 @@
 "success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
 "true","false","[]","[]","[]","preload","0","2","0.0-0.0","2025-01-13T16:09:28.885Z","6_tfqx7m","","",""
 "","","","","","survey-text","1","4843","0.0-1.0","2025-01-13T16:09:28.885Z","6_tfqx7m","4830","{""subject_id"":""6_tfqx7m""}","welcome"
+"","","","","","survey","2","39155","0.0-2.0","2025-01-13T16:09:28.885Z","6_tfqx7m","34087","{""age"":""23"",""gender"":""weiblich"",""vegetarian"":""Nicht-veganer Vegetarier: eine Person, die Milchprodukte und/oder Eier, Obst, Gemüse, Getreide, aber keine anderen tierischen Produkte oder Meeresfrüchte isst"",""question1"":null}","survey"
