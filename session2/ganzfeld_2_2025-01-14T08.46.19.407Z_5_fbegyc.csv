@@ -8,3 +8,5 @@
 "","","","","","html-button-response","5","223953","0.0-5.0","2025-01-14T08:46:19.407Z","5_fbegyc","23311","0","restIntro","<p>Als nächstes möchten wir Sie bitten, sich für 3 Minuten auf einen bequemen Stuhl zu setzen. Drücken Sie auf ""Weiter"", wenn Sie bereit sind, machen Sie es sich dann im Stuhl bequem und ruhen Sie sich aus, bis Sie ein Signalton am Ende des dreiminütigen Intervalls hören. Danach können Sie zu diesem Programm zurückkehren, um fortzufahren.</p>","",""
 "","","","","","html-keyboard-response","6","406466","0.0-6.0","2025-01-14T08:46:19.407Z","5_fbegyc","null","null","rest","","",""
 "","","","","","call-function","7","406467","0.0-7.0-0.0","2025-01-14T08:46:19.407Z","5_fbegyc","","","","","",""
+"","","","","","survey","8","586722","0.0-7.0-1.0","2025-01-14T08:46:19.407Z","5_fbegyc","180218","{""PCIRest1"":2,""PCIRest2"":2,""PCIRest3"":3,""PCIRest4"":5,""PCIRest5"":3,""PCIRest6"":1,""PCIRest7"":2,""PCIRest8"":3,""PCIRest9"":3,""PCIRest10"":3,""PCIRest11"":4,""PCIRest12"":3,""PCIRest13"":4,""PCIIntro"":null}","PCIRest","","",""
+"","","","","","call-function","9","586723","0.0-7.0-2.0","2025-01-14T08:46:19.407Z","5_fbegyc","","","","","",""
