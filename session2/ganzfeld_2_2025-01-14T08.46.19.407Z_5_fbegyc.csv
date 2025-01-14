@@ -11,3 +11,9 @@
 "","","","","","survey","8","586722","0.0-7.0-1.0","2025-01-14T08:46:19.407Z","5_fbegyc","180218","{""PCIRest1"":2,""PCIRest2"":2,""PCIRest3"":3,""PCIRest4"":5,""PCIRest5"":3,""PCIRest6"":1,""PCIRest7"":2,""PCIRest8"":3,""PCIRest9"":3,""PCIRest10"":3,""PCIRest11"":4,""PCIRest12"":3,""PCIRest13"":4,""PCIIntro"":null}","PCIRest","","","",""
 "","","","","","call-function","9","586723","0.0-7.0-2.0","2025-01-14T08:46:19.407Z","5_fbegyc","","","","","","",""
 "","","","","","instructions","10","645801","0.0-8.0","2025-01-14T08:46:19.407Z","5_fbegyc","59077","","instructions1","","","","[{""page_index"":0,""viewing_time"":59077}]"
+"","","","","","html-button-response","11","841833","0.0-9.0","2025-01-14T08:46:19.407Z","5_fbegyc","196029","0","GanzfeldIntro","<p>Bitte sagen Sie dem Versuchsleiter, dass er Ihnen bei der Ganzfeld-Ausrüstung behilflich sein soll. Der Versuchsleiter wird auf ""Weiter"" klicken, wenn Sie bereit sind, um zu beginnen.</p>
+            <p>Der Audiopegel für das Ganzfeld kann während der Wiedergabe der unten stehenden Audiodatei angepasst werden.</p>
+            <audio controls>
+                <source src=""../audio/pinknoise_7min_128.mp3"" type=""audio/mpeg"">
+                Your browser does not support the audio element.
+            </audio>","","",""
