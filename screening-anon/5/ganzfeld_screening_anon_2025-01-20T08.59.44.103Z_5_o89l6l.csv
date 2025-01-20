@@ -1,0 +1,4 @@
+"view_history","rt","test_part","trial_type","trial_index","time_elapsed","internal_node_id","lab","subject","time","url","response","accuracy"
+"[{""page_index"":0,""viewing_time"":9664}]","9664","instruction","instructions","0","9666","0.0-0.0","5","5_o89l6l","2025-01-20T08:59:44.103Z","","",""
+"","11282","","external-html","1","21066","0.0-1.0","5","5_o89l6l","2025-01-20T08:59:44.103Z","consent/consent5.html","",""
+"","1791026","screening","survey","2","1812119","0.0-2.0","5","5_o89l6l","2025-01-20T08:59:44.103Z","","{""intro"":null,""mentality"":""(2) Selten"",""psi"":""(2) Sehr selten"",""succeed"":""(3) Unwahrscheinlich"",""contact"":null}","[]"
