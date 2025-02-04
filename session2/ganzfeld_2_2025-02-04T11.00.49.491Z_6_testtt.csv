@@ -1,4 +1,7 @@
-"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
-"true","false","[]","[]","[]","preload","0","24957","0.0-0.0","2025-02-04T11:00:49.491Z","6_testtt","","",""
-"","","","","","survey","1","41785","0.0-1.0","2025-02-04T11:00:49.491Z","6_testtt","16763","{""testrun"":""Pilot (Testlauf)""}","testrun"
-"","","","","","survey-text","2","49096","0.0-2.0","2025-02-04T11:00:49.491Z","6_testtt","7293","{""subject_id"":""6_testtt""}","welcome"
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part","stimulus","slider_start"
+"true","false","[]","[]","[]","preload","0","24957","0.0-0.0","2025-02-04T11:00:49.491Z","6_testtt","","","","",""
+"","","","","","survey","1","41785","0.0-1.0","2025-02-04T11:00:49.491Z","6_testtt","16763","{""testrun"":""Pilot (Testlauf)""}","testrun","",""
+"","","","","","survey-text","2","49096","0.0-2.0","2025-02-04T11:00:49.491Z","6_testtt","7293","{""subject_id"":""6_testtt""}","welcome","",""
+"","","","","","html-slider-response","3","58471","0.0-3.0","2025-02-04T11:00:49.491Z","6_testtt","9370","64","successBelief","<p>Bevor wir beginnen, möchten wir Sie nach Ihrer Einstellung zum Experiment fragen.</p>
+            <p style=""font-weight: bold;"">Wie wahrscheinlich halten Sie es, dass Sie persönlich bei Ihrem heutigen präkognitiven Test erfolgreich sein werden?</p>","50"
+"","","","","","html-slider-response","4","63167","0.0-4.0","2025-02-04T11:00:49.491Z","6_testtt","4692","70","comfortable","<p style=""font-weight: bold;"">Fühlen Sie sich wohl mit dem Ganzfeld-Setup?</p>","50"
