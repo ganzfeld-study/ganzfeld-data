@@ -1,19 +1,35 @@
-"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part","stimulus","slider_start","value","view_history"
-"true","false","[]","[]","[]","preload","0","20760","0.0-0.0","2025-02-07T09:58:21.827Z","1_000003","","","","","","",""
-"","","","","","survey","1","69410","0.0-1.0","2025-02-07T09:58:21.827Z","1_000003","63095","{""testrun"":""Experiment""}","testrun","","","",""
-"","","","","","survey-text","2","103785","0.0-2.0","2025-02-07T09:58:21.827Z","1_000003","34336","{""subject_id"":""1_000003""}","welcome","","","",""
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part","stimulus","slider_start","value","view_history","rndSet","rndV1","rndV2","videoA","videoB","videoStimulus"
+"true","false","[]","[]","[]","preload","0","20760","0.0-0.0","2025-02-07T09:58:21.827Z","1_000003","","","","","","","","","","","","",""
+"","","","","","survey","1","69410","0.0-1.0","2025-02-07T09:58:21.827Z","1_000003","63095","{""testrun"":""Experiment""}","testrun","","","","","","","","","",""
+"","","","","","survey-text","2","103785","0.0-2.0","2025-02-07T09:58:21.827Z","1_000003","34336","{""subject_id"":""1_000003""}","welcome","","","","","","","","","",""
 "","","","","","html-slider-response","3","122480","0.0-3.0","2025-02-07T09:58:21.827Z","1_000003","18690","73","successBelief","<p>Innan vi börjar skulle vi vilja fråga dig om din inställning till experimentet.</p>
-            <p style=""font-weight: bold;"">Hur sannolikt tror du att det är att du personligen kommer att lyckas med ditt prekognitiva test idag?</p>","50","",""
-"","","","","","html-slider-response","4","126720","0.0-4.0","2025-02-07T09:58:21.827Z","1_000003","4238","99","comfortable","<p style=""font-weight: bold;"">Känner du dig bekväm med Ganzfeld-miljön?</p>","50","",""
-"","","","","","html-button-response","5","169984","0.0-5.0","2025-02-07T09:58:21.827Z","1_000003","43262","0","restIntro","<p>Härnäst vill vi att du vilar i en lutande fåtölj i 3 minuter. Tryck på ""Nästa"" när du är redo, sätt dig bekvämt tillrätta i fåtöljen och vila tills du hör ett pip som signalerar slutet på treminutersintervallet. Därefter kan du återgå till det här programmet för att fortsätta.</p>","","",""
-"","","","","","html-keyboard-response","6","352512","0.0-6.0","2025-02-07T09:58:21.827Z","1_000003","null","null","rest","","","",""
-"","","","","","call-function","7","352514","0.0-7.0-0.0","2025-02-07T09:58:21.827Z","1_000003","","","","","","",""
-"","","","","","survey","8","474964","0.0-7.0-1.0","2025-02-07T09:58:21.827Z","1_000003","122313","{""PCIRest1"":5,""PCIRest2"":5,""PCIRest3"":4,""PCIRest4"":5,""PCIRest5"":4,""PCIRest6"":1,""PCIRest7"":1,""PCIRest8"":1,""PCIRest9"":1,""PCIRest10"":1,""PCIRest11"":3,""PCIRest12"":4,""PCIRest13"":4,""PCIIntro"":null}","PCIRest","","","",""
-"","","","","","call-function","9","474968","0.0-7.0-2.0","2025-02-07T09:58:21.827Z","1_000003","","","","","","",""
-"","","","","","instructions","10","533305","0.0-8.0","2025-02-07T09:58:21.827Z","1_000003","58336","","instructions1","","","","[{""page_index"":0,""viewing_time"":58335}]"
+            <p style=""font-weight: bold;"">Hur sannolikt tror du att det är att du personligen kommer att lyckas med ditt prekognitiva test idag?</p>","50","","","","","","","",""
+"","","","","","html-slider-response","4","126720","0.0-4.0","2025-02-07T09:58:21.827Z","1_000003","4238","99","comfortable","<p style=""font-weight: bold;"">Känner du dig bekväm med Ganzfeld-miljön?</p>","50","","","","","","","",""
+"","","","","","html-button-response","5","169984","0.0-5.0","2025-02-07T09:58:21.827Z","1_000003","43262","0","restIntro","<p>Härnäst vill vi att du vilar i en lutande fåtölj i 3 minuter. Tryck på ""Nästa"" när du är redo, sätt dig bekvämt tillrätta i fåtöljen och vila tills du hör ett pip som signalerar slutet på treminutersintervallet. Därefter kan du återgå till det här programmet för att fortsätta.</p>","","","","","","","","",""
+"","","","","","html-keyboard-response","6","352512","0.0-6.0","2025-02-07T09:58:21.827Z","1_000003","null","null","rest","","","","","","","","","",""
+"","","","","","call-function","7","352514","0.0-7.0-0.0","2025-02-07T09:58:21.827Z","1_000003","","","","","","","","","","","","",""
+"","","","","","survey","8","474964","0.0-7.0-1.0","2025-02-07T09:58:21.827Z","1_000003","122313","{""PCIRest1"":5,""PCIRest2"":5,""PCIRest3"":4,""PCIRest4"":5,""PCIRest5"":4,""PCIRest6"":1,""PCIRest7"":1,""PCIRest8"":1,""PCIRest9"":1,""PCIRest10"":1,""PCIRest11"":3,""PCIRest12"":4,""PCIRest13"":4,""PCIIntro"":null}","PCIRest","","","","","","","","","",""
+"","","","","","call-function","9","474968","0.0-7.0-2.0","2025-02-07T09:58:21.827Z","1_000003","","","","","","","","","","","","",""
+"","","","","","instructions","10","533305","0.0-8.0","2025-02-07T09:58:21.827Z","1_000003","58336","","instructions1","","","","[{""page_index"":0,""viewing_time"":58335}]","","","","","",""
 "","","","","","html-button-response","11","808137","0.0-9.0","2025-02-07T09:58:21.827Z","1_000003","274814","0","GanzfeldIntro","<p>Säg åt försöksledaren att hjälpa dig med Ganzfeld-utrustningen. Försöksledaren kommer att klicka på Nästa när du är redo att börja.</p>
             <p>Ljudnivån för Ganzfeld kan justeras medan du spelar upp ljud-exemplet nedan.</p>
             <audio controls>
                 <source src=""../audio/pinknoise_7min_128.mp3"" type=""audio/mpeg"">
                 Your browser does not support the audio element.
-            </audio>","","",""
+            </audio>","","","","","","","","",""
+"","","","","","audio-keyboard-response","12","2998257","0.0-10.0","2025-02-07T09:58:21.827Z","1_000003","null","null","GanzfeldPlay","../audio/English_Ganzfeld_Induction_v4.mp3","","","","","","","","",""
+"","","","","","call-function","13","2998260","0.0-11.0-0.0","2025-02-07T09:58:21.827Z","1_000003","","","","","","","","","","","","",""
+"","","","","","survey","14","3229449","0.0-11.0-1.0","2025-02-07T09:58:21.827Z","1_000003","231052","{""PCIGanz1"":6,""PCIGanz2"":6,""PCIGanz3"":0,""PCIGanz4"":6,""PCIGanz5"":6,""PCIGanz6"":0,""PCIGanz7"":0,""PCIGanz8"":0,""PCIGanz9"":0,""PCIGanz10"":0,""PCIGanz11"":6,""PCIGanz12"":5,""PCIGanz13"":6,""PCIIntro"":null}","PCIGanzfeld","","","","","","","","","",""
+"","","","","","call-function","15","3229451","0.0-11.0-2.0","2025-02-07T09:58:21.827Z","1_000003","","","","","","","","","","","","",""
+"","","","","","survey","16","3266968","0.0-12.0","2025-02-07T09:58:21.827Z","1_000003","37490","{""DSSQ"":{""DSSQ01"":1,""DSSQ02"":1,""DSSQ03"":1,""DSSQ04"":1,""DSSQ05"":1,""DSSQ06"":1,""DSSQ07"":1,""DSSQ08"":1},""DSSQIntro"":null}","DSSQ","","","","","","","","","",""
+"","","","","","html-slider-response","17","3274715","0.0-13.0","2025-02-07T09:58:21.827Z","1_000003","7744","0","time1","<p><i>Vänligen besvara följande två frågor om dina upplevelser under de 30 minuterna av Ganzfeld.</i></p>
+            <p>1. Hur ofta tänkte du på tiden <b>under uppgiften</b>?</p>","50","","","","","","","",""
+"","","","","","html-slider-response","18","3283195","0.0-14.0","2025-02-07T09:58:21.827Z","1_000003","8478","100","time2","<p><i>Vänligen besvara följande två frågor om dina upplevelser under de 30 minuterna av Ganzfeld.</i></p>
+            <p>2. Hur snabbt gick tiden för dig <b>under uppgiften</b>?</p>","50","","","","","","","",""
+"","","","","","instructions","19","3324923","0.0-15.0","2025-02-07T09:58:21.827Z","1_000003","41727","","instructions2","","","","[{""page_index"":0,""viewing_time"":41726}]","","","","","",""
+"","","","","","html-button-response","20","3327483","0.0-16.0","2025-02-07T09:58:21.827Z","1_000003","2558","0","videoIntro","<p>Nu vill vi att du tittar på två korta videoklipp och bedömer hur lika de är din Ganzfeld-upplevelse.</p>
+            <p>Klicka på ""Nästa"" för att fortsätta.</p>","","","","14","0","1","../video/22 A Braveheart.mp4","../video/22 B Must go faster.mp4",""
+"true","false","[]","[]","[]","preload","21","3333537","0.0-17.0","2025-02-07T09:58:21.827Z","1_000003","","","","","","","","","","","","",""
+"","","","","","survey-html-form","22","3524237","0.0-18.0-0.0","2025-02-07T09:58:21.827Z","1_000003","190686","{""ClipA"":""3"",""ClipB"":""60""}","videoRating","","","","","","","","","",""
+"","","","","","html-button-response","23","3529907","0.0-19.0","2025-02-07T09:58:21.827Z","1_000003","5668","0","videoTargetIntro","<p>Vi kommer nu att visa det klipp som är måltavlan.</p><p>Vänligen titta noggrant på hela klippet en andra gång.</p>","","","","","","","","","[""../video/22 A Braveheart.mp4""]"
+"","","","","","video-keyboard-response","24","3593627","0.0-20.0","2025-02-07T09:58:21.827Z","1_000003","null","null","videoTarget","[""../video/22 A Braveheart.mp4""]","","","","","","","","",""
