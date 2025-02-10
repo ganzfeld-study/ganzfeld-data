@@ -17,3 +17,12 @@
                 <source src=""../audio/pinknoise_7min_128.mp3"" type=""audio/mpeg"">
                 Your browser does not support the audio element.
             </audio>","","",""
+"","","","","","audio-keyboard-response","12","3321690","0.0-10.0","2025-02-10T10:05:21.276Z","5_dl0mnr","null","null","GanzfeldPlay","../audio/English_Ganzfeld_Induction_v4.mp3","","",""
+"","","","","","call-function","13","3321691","0.0-11.0-0.0","2025-02-10T10:05:21.276Z","5_dl0mnr","","","","","","",""
+"","","","","","survey","14","3802317","0.0-11.0-1.0","2025-02-10T10:05:21.276Z","5_dl0mnr","480591","{""PCIGanz1"":1,""PCIGanz2"":5,""PCIGanz3"":1,""PCIGanz4"":2,""PCIGanz5"":5,""PCIGanz6"":1,""PCIGanz7"":0,""PCIGanz8"":0,""PCIGanz9"":0,""PCIGanz10"":0,""PCIGanz11"":6,""PCIGanz12"":5,""PCIGanz13"":1,""PCIIntro"":null}","PCIGanzfeld","","","",""
+"","","","","","call-function","15","3802318","0.0-11.0-2.0","2025-02-10T10:05:21.276Z","5_dl0mnr","","","","","","",""
+"","","","","","survey","16","3882951","0.0-12.0","2025-02-10T10:05:21.276Z","5_dl0mnr","80625","{""DSSQ"":{""DSSQ01"":3,""DSSQ02"":3,""DSSQ03"":2,""DSSQ04"":2,""DSSQ05"":2,""DSSQ06"":3,""DSSQ07"":2,""DSSQ08"":2},""DSSQIntro"":null}","DSSQ","","","",""
+"","","","","","html-slider-response","17","3904905","0.0-13.0","2025-02-10T10:05:21.276Z","5_dl0mnr","21952","30","time1","<p><i>Please answer the following two questions about your experiences during the 30 minutes of Ganzfeld.</i></p>
+            <p>1. How often did you think about time <b>during the task</b>?</p>","50","",""
+"","","","","","html-slider-response","18","3909081","0.0-14.0","2025-02-10T10:05:21.276Z","5_dl0mnr","4174","62","time2","<p><i>Please answer the following two questions about your experiences during the 30 minutes of Ganzfeld.</i></p>
+            <p>2. How fast did time pass for you <b>during the task</b>?</p>","50","",""
