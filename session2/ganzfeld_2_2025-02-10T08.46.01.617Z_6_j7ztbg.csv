@@ -1,19 +1,32 @@
-"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part","stimulus","slider_start","value","view_history"
-"true","false","[]","[]","[]","preload","0","26075","0.0-0.0","2025-02-10T08:46:01.617Z","6_j7ztbg","","","","","","",""
-"","","","","","survey","1","196226","0.0-1.0","2025-02-10T08:46:01.617Z","6_j7ztbg","170012","{""testrun"":""Experiment""}","testrun","","","",""
-"","","","","","survey-text","2","1715258","0.0-2.0","2025-02-10T08:46:01.617Z","6_j7ztbg","1526773","{""subject_id"":""6_j7ztbg""}","welcome","","","",""
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part","stimulus","slider_start","value","view_history","rndSet","rndV1","rndV2","videoA","videoB"
+"true","false","[]","[]","[]","preload","0","26075","0.0-0.0","2025-02-10T08:46:01.617Z","6_j7ztbg","","","","","","","","","","","",""
+"","","","","","survey","1","196226","0.0-1.0","2025-02-10T08:46:01.617Z","6_j7ztbg","170012","{""testrun"":""Experiment""}","testrun","","","","","","","","",""
+"","","","","","survey-text","2","1715258","0.0-2.0","2025-02-10T08:46:01.617Z","6_j7ztbg","1526773","{""subject_id"":""6_j7ztbg""}","welcome","","","","","","","","",""
 "","","","","","html-slider-response","3","1730824","0.0-3.0","2025-02-10T08:46:01.617Z","6_j7ztbg","15559","9","successBelief","<p>Bevor wir beginnen, möchten wir Sie nach Ihrer Einstellung zum Experiment fragen.</p>
-            <p style=""font-weight: bold;"">Wie wahrscheinlich halten Sie es, dass Sie persönlich bei Ihrem heutigen präkognitiven Test erfolgreich sein werden?</p>","50","",""
-"","","","","","html-slider-response","4","1736534","0.0-4.0","2025-02-10T08:46:01.617Z","6_j7ztbg","5707","89","comfortable","<p style=""font-weight: bold;"">Fühlen Sie sich wohl mit dem Ganzfeld-Setup?</p>","50","",""
-"","","","","","html-button-response","5","1758005","0.0-5.0","2025-02-10T08:46:01.617Z","6_j7ztbg","21467","0","restIntro","<p>Als nächstes möchten wir Sie bitten, sich für 3 Minuten auf einen bequemen Stuhl zu setzen. Drücken Sie auf ""Weiter"", wenn Sie bereit sind, machen Sie es sich dann im Stuhl bequem und ruhen Sie sich aus, bis Sie ein Signalton am Ende des dreiminütigen Intervalls hören. Danach können Sie zu diesem Programm zurückkehren, um fortzufahren.</p>","","",""
-"","","","","","html-keyboard-response","6","1940516","0.0-6.0","2025-02-10T08:46:01.617Z","6_j7ztbg","null","null","rest","","","",""
-"","","","","","call-function","7","1940517","0.0-7.0-0.0","2025-02-10T08:46:01.617Z","6_j7ztbg","","","","","","",""
-"","","","","","survey","8","2098085","0.0-7.0-1.0","2025-02-10T08:46:01.617Z","6_j7ztbg","157417","{""PCIRest1"":2,""PCIRest2"":1,""PCIRest3"":3,""PCIRest4"":5,""PCIRest5"":0,""PCIRest6"":5,""PCIRest7"":2,""PCIRest8"":3,""PCIRest9"":3,""PCIRest10"":5,""PCIRest11"":2,""PCIRest12"":3,""PCIRest13"":0,""PCIIntro"":null}","PCIRest","","","",""
-"","","","","","call-function","9","2098088","0.0-7.0-2.0","2025-02-10T08:46:01.617Z","6_j7ztbg","","","","","","",""
-"","","","","","instructions","10","2157317","0.0-8.0","2025-02-10T08:46:01.617Z","6_j7ztbg","59224","","instructions1","","","","[{""page_index"":0,""viewing_time"":59224}]"
+            <p style=""font-weight: bold;"">Wie wahrscheinlich halten Sie es, dass Sie persönlich bei Ihrem heutigen präkognitiven Test erfolgreich sein werden?</p>","50","","","","","","",""
+"","","","","","html-slider-response","4","1736534","0.0-4.0","2025-02-10T08:46:01.617Z","6_j7ztbg","5707","89","comfortable","<p style=""font-weight: bold;"">Fühlen Sie sich wohl mit dem Ganzfeld-Setup?</p>","50","","","","","","",""
+"","","","","","html-button-response","5","1758005","0.0-5.0","2025-02-10T08:46:01.617Z","6_j7ztbg","21467","0","restIntro","<p>Als nächstes möchten wir Sie bitten, sich für 3 Minuten auf einen bequemen Stuhl zu setzen. Drücken Sie auf ""Weiter"", wenn Sie bereit sind, machen Sie es sich dann im Stuhl bequem und ruhen Sie sich aus, bis Sie ein Signalton am Ende des dreiminütigen Intervalls hören. Danach können Sie zu diesem Programm zurückkehren, um fortzufahren.</p>","","","","","","","",""
+"","","","","","html-keyboard-response","6","1940516","0.0-6.0","2025-02-10T08:46:01.617Z","6_j7ztbg","null","null","rest","","","","","","","","",""
+"","","","","","call-function","7","1940517","0.0-7.0-0.0","2025-02-10T08:46:01.617Z","6_j7ztbg","","","","","","","","","","","",""
+"","","","","","survey","8","2098085","0.0-7.0-1.0","2025-02-10T08:46:01.617Z","6_j7ztbg","157417","{""PCIRest1"":2,""PCIRest2"":1,""PCIRest3"":3,""PCIRest4"":5,""PCIRest5"":0,""PCIRest6"":5,""PCIRest7"":2,""PCIRest8"":3,""PCIRest9"":3,""PCIRest10"":5,""PCIRest11"":2,""PCIRest12"":3,""PCIRest13"":0,""PCIIntro"":null}","PCIRest","","","","","","","","",""
+"","","","","","call-function","9","2098088","0.0-7.0-2.0","2025-02-10T08:46:01.617Z","6_j7ztbg","","","","","","","","","","","",""
+"","","","","","instructions","10","2157317","0.0-8.0","2025-02-10T08:46:01.617Z","6_j7ztbg","59224","","instructions1","","","","[{""page_index"":0,""viewing_time"":59224}]","","","","",""
 "","","","","","html-button-response","11","2303298","0.0-9.0","2025-02-10T08:46:01.617Z","6_j7ztbg","145923","0","GanzfeldIntro","<p>Bitte sagen Sie dem Versuchsleiter, dass er Ihnen bei der Ganzfeld-Ausrüstung behilflich sein soll. Der Versuchsleiter wird auf ""Weiter"" klicken, wenn Sie bereit sind, um zu beginnen.</p>
             <p>Der Audiopegel für das Ganzfeld kann während der Wiedergabe der unten stehenden Audiodatei angepasst werden.</p>
             <audio controls>
                 <source src=""../audio/pinknoise_7min_128.mp3"" type=""audio/mpeg"">
                 Your browser does not support the audio element.
-            </audio>","","",""
+            </audio>","","","","","","","",""
+"","","","","","audio-keyboard-response","12","4493418","0.0-10.0","2025-02-10T08:46:01.617Z","6_j7ztbg","null","null","GanzfeldPlay","../audio/German_Ganzfeld_Induction_v4.mp3","","","","","","","",""
+"","","","","","call-function","13","4493421","0.0-11.0-0.0","2025-02-10T08:46:01.617Z","6_j7ztbg","","","","","","","","","","","",""
+"","","","","","survey","14","4645925","0.0-11.0-1.0","2025-02-10T08:46:01.617Z","6_j7ztbg","152306","{""PCIGanz1"":1,""PCIGanz2"":0,""PCIGanz3"":5,""PCIGanz4"":4,""PCIGanz5"":0,""PCIGanz6"":5,""PCIGanz7"":4,""PCIGanz8"":4,""PCIGanz9"":3,""PCIGanz10"":5,""PCIGanz11"":0,""PCIGanz12"":0,""PCIGanz13"":0,""PCIIntro"":null}","PCIGanzfeld","","","","","","","","",""
+"","","","","","call-function","15","4645930","0.0-11.0-2.0","2025-02-10T08:46:01.617Z","6_j7ztbg","","","","","","","","","","","",""
+"","","","","","survey","16","4697967","0.0-12.0","2025-02-10T08:46:01.617Z","6_j7ztbg","51965","{""DSSQ"":{""DSSQ01"":4,""DSSQ02"":2,""DSSQ03"":4,""DSSQ04"":5,""DSSQ05"":1,""DSSQ06"":4,""DSSQ07"":1,""DSSQ08"":5},""DSSQIntro"":null}","DSSQ","","","","","","","","",""
+"","","","","","html-slider-response","17","4713009","0.0-13.0","2025-02-10T08:46:01.617Z","6_j7ztbg","15037","35","time1","<p><i>Bitte beantworten Sie die folgenden beiden Fragen zu Ihren Erfahrungen während der 30 Minuten Ganzfeld.</i></p>
+            <p>1. Wie oft haben Sie <b>während der Aufgabe</b> an die Zeit gedacht?</p>","50","","","","","","",""
+"","","","","","html-slider-response","18","4724474","0.0-14.0","2025-02-10T08:46:01.617Z","6_j7ztbg","11460","62","time2","<p><i>Bitte beantworten Sie die folgenden beiden Fragen zu Ihren Erfahrungen während der 30 Minuten Ganzfeld.</i></p>
+            <p>2. Wie schnell verging die Zeit für Sie <b>während der Aufgabe</b>?</p>","50","","","","","","",""
+"","","","","","instructions","19","4776972","0.0-15.0","2025-02-10T08:46:01.617Z","6_j7ztbg","52496","","instructions2","","","","[{""page_index"":0,""viewing_time"":52495}]","","","","",""
+"","","","","","html-button-response","20","4783577","0.0-16.0","2025-02-10T08:46:01.617Z","6_j7ztbg","6601","0","videoIntro","<p>Jetzt möchten wir, dass Sie sich zwei kurze Videos ansehen und bewerten, wie ähnlich sie Ihrem Ganzfeld-Erlebnis sind.</p>
+            <p>Bitte klicken Sie auf ""Weiter"", wenn Sie bereit sind.</p>","","","","16","0","1","../video/24 A Tears in the rain.mp4","../video/24 B Flying Frog.mp4"
+"true","false","[]","[]","[]","preload","21","4784030","0.0-17.0","2025-02-10T08:46:01.617Z","6_j7ztbg","","","","","","","","","","","",""
