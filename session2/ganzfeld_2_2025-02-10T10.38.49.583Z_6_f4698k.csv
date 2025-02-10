@@ -1,4 +1,19 @@
-"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
-"true","false","[]","[]","[]","preload","0","29528","0.0-0.0","2025-02-10T10:38:49.583Z","6_f4698k","","",""
-"","","","","","survey","1","82391","0.0-1.0","2025-02-10T10:38:49.583Z","6_f4698k","52759","{""testrun"":""Pilot (Testlauf)""}","testrun"
-"","","","","","survey-text","2","1995578","0.0-2.0","2025-02-10T10:38:49.583Z","6_f4698k","1913058","{""subject_id"":""6_f4698k""}","welcome"
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part","stimulus","slider_start","value","view_history"
+"true","false","[]","[]","[]","preload","0","29528","0.0-0.0","2025-02-10T10:38:49.583Z","6_f4698k","","","","","","",""
+"","","","","","survey","1","82391","0.0-1.0","2025-02-10T10:38:49.583Z","6_f4698k","52759","{""testrun"":""Pilot (Testlauf)""}","testrun","","","",""
+"","","","","","survey-text","2","1995578","0.0-2.0","2025-02-10T10:38:49.583Z","6_f4698k","1913058","{""subject_id"":""6_f4698k""}","welcome","","","",""
+"","","","","","html-slider-response","3","2006032","0.0-3.0","2025-02-10T10:38:49.583Z","6_f4698k","10447","100","successBelief","<p>Bevor wir beginnen, möchten wir Sie nach Ihrer Einstellung zum Experiment fragen.</p>
+            <p style=""font-weight: bold;"">Wie wahrscheinlich halten Sie es, dass Sie persönlich bei Ihrem heutigen präkognitiven Test erfolgreich sein werden?</p>","50","",""
+"","","","","","html-slider-response","4","2010118","0.0-4.0","2025-02-10T10:38:49.583Z","6_f4698k","4082","100","comfortable","<p style=""font-weight: bold;"">Fühlen Sie sich wohl mit dem Ganzfeld-Setup?</p>","50","",""
+"","","","","","html-button-response","5","2035681","0.0-5.0","2025-02-10T10:38:49.583Z","6_f4698k","25559","0","restIntro","<p>Als nächstes möchten wir Sie bitten, sich für 3 Minuten auf einen bequemen Stuhl zu setzen. Drücken Sie auf ""Weiter"", wenn Sie bereit sind, machen Sie es sich dann im Stuhl bequem und ruhen Sie sich aus, bis Sie ein Signalton am Ende des dreiminütigen Intervalls hören. Danach können Sie zu diesem Programm zurückkehren, um fortzufahren.</p>","","",""
+"","","","","","html-keyboard-response","6","2218190","0.0-6.0","2025-02-10T10:38:49.583Z","6_f4698k","null","null","rest","","","",""
+"","","","","","call-function","7","2218192","0.0-7.0-0.0","2025-02-10T10:38:49.583Z","6_f4698k","","","","","","",""
+"","","","","","survey","8","2364981","0.0-7.0-1.0","2025-02-10T10:38:49.583Z","6_f4698k","146638","{""PCIRest1"":3,""PCIRest2"":3,""PCIRest3"":3,""PCIRest5"":3,""PCIRest4"":3,""PCIRest6"":3,""PCIRest7"":3,""PCIRest8"":3,""PCIRest9"":3,""PCIRest11"":3,""PCIRest10"":3,""PCIRest12"":3,""PCIRest13"":3,""PCIIntro"":null}","PCIRest","","","",""
+"","","","","","call-function","9","2364986","0.0-7.0-2.0","2025-02-10T10:38:49.583Z","6_f4698k","","","","","","",""
+"","","","","","instructions","10","2442327","0.0-8.0","2025-02-10T10:38:49.583Z","6_f4698k","77335","","instructions1","","","","[{""page_index"":0,""viewing_time"":77335}]"
+"","","","","","html-button-response","11","2626191","0.0-9.0","2025-02-10T10:38:49.583Z","6_f4698k","183807","0","GanzfeldIntro","<p>Bitte sagen Sie dem Versuchsleiter, dass er Ihnen bei der Ganzfeld-Ausrüstung behilflich sein soll. Der Versuchsleiter wird auf ""Weiter"" klicken, wenn Sie bereit sind, um zu beginnen.</p>
+            <p>Der Audiopegel für das Ganzfeld kann während der Wiedergabe der unten stehenden Audiodatei angepasst werden.</p>
+            <audio controls>
+                <source src=""../audio/pinknoise_7min_128.mp3"" type=""audio/mpeg"">
+                Your browser does not support the audio element.
+            </audio>","","",""
