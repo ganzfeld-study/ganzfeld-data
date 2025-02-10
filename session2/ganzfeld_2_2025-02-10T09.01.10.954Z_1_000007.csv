@@ -11,3 +11,9 @@
 "","","","","","survey","8","524154","0.0-7.0-1.0","2025-02-10T09:01:10.954Z","1_000007","142665","{""PCIRest1"":5,""PCIRest2"":2,""PCIRest3"":2,""PCIRest4"":4,""PCIRest5"":2,""PCIRest6"":5,""PCIRest7"":2,""PCIRest8"":1,""PCIRest9"":4,""PCIRest10"":5,""PCIRest11"":1,""PCIRest12"":2,""PCIRest13"":2,""PCIIntro"":null}","PCIRest","","","",""
 "","","","","","call-function","9","524156","0.0-7.0-2.0","2025-02-10T09:01:10.954Z","1_000007","","","","","","",""
 "","","","","","instructions","10","646914","0.0-8.0","2025-02-10T09:01:10.954Z","1_000007","122755","","instructions1","","","","[{""page_index"":0,""viewing_time"":122754}]"
+"","","","","","html-button-response","11","915714","0.0-9.0","2025-02-10T09:01:10.954Z","1_000007","268786","0","GanzfeldIntro","<p>Säg åt försöksledaren att hjälpa dig med Ganzfeld-utrustningen. Försöksledaren kommer att klicka på Nästa när du är redo att börja.</p>
+            <p>Ljudnivån för Ganzfeld kan justeras medan du spelar upp ljud-exemplet nedan.</p>
+            <audio controls>
+                <source src=""../audio/pinknoise_7min_128.mp3"" type=""audio/mpeg"">
+                Your browser does not support the audio element.
+            </audio>","","",""
