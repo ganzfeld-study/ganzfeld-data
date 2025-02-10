@@ -32,3 +32,4 @@
 "true","false","[]","[]","[]","preload","21","5181424","0.0-17.0","2025-02-10T10:38:49.583Z","6_f4698k","","","","","","","","","","","","",""
 "","","","","","survey-html-form","22","5513048","0.0-18.0-0.0","2025-02-10T10:38:49.583Z","6_f4698k","331593","{""ClipA"":""15"",""ClipB"":""6""}","videoRating","","","","","","","","","",""
 "","","","","","html-button-response","23","5517594","0.0-19.0","2025-02-10T10:38:49.583Z","6_f4698k","4542","0","videoTargetIntro","<p>Wir werden jetzt das Zielvideo auswählen.</p><p>Bitte sehen Sie sich das ausgewählte Video ein zweites Mal an.</p>","","","","","","","","","[""../video/2 D See.mp4""]"
+"","","","","","video-keyboard-response","24","5581505","0.0-20.0","2025-02-10T10:38:49.583Z","6_f4698k","null","null","videoTarget","[""../video/2 D See.mp4""]","","","","","","","","",""
