@@ -17,3 +17,12 @@
                 <source src=""../audio/pinknoise_7min_128.mp3"" type=""audio/mpeg"">
                 Your browser does not support the audio element.
             </audio>","","",""
+"","","","","","audio-keyboard-response","12","2951813","0.0-10.0","2025-03-12T09:47:11.478Z","5_puvkjc","null","null","GanzfeldPlay","../audio/German_Ganzfeld_Induction_v4.mp3","","",""
+"","","","","","call-function","13","2951814","0.0-11.0-0.0","2025-03-12T09:47:11.478Z","5_puvkjc","","","","","","",""
+"","","","","","survey","14","3160014","0.0-11.0-1.0","2025-03-12T09:47:11.478Z","5_puvkjc","208175","{""PCIGanz1"":0,""PCIGanz2"":0,""PCIGanz3"":2,""PCIGanz4"":0,""PCIGanz5"":0,""PCIGanz6"":6,""PCIGanz7"":2,""PCIGanz8"":6,""PCIGanz9"":6,""PCIGanz10"":4,""PCIGanz11"":4,""PCIGanz12"":0,""PCIGanz13"":1,""PCIIntro"":null}","PCIGanzfeld","","","",""
+"","","","","","call-function","15","3160015","0.0-11.0-2.0","2025-03-12T09:47:11.478Z","5_puvkjc","","","","","","",""
+"","","","","","survey","16","3221097","0.0-12.0","2025-03-12T09:47:11.478Z","5_puvkjc","61074","{""DSSQ"":{""DSSQ01"":4,""DSSQ02"":5,""DSSQ03"":2,""DSSQ04"":5,""DSSQ05"":4,""DSSQ06"":4,""DSSQ07"":1,""DSSQ08"":1},""DSSQIntro"":null}","DSSQ","","","",""
+"","","","","","html-slider-response","17","3226381","0.0-13.0","2025-03-12T09:47:11.478Z","5_puvkjc","5283","77","time1","<p><i>Bitte beantworten Sie die folgenden beiden Fragen zu Ihren Erfahrungen während der 30 Minuten Ganzfeld.</i></p>
+            <p>1. Wie oft haben Sie <b>während der Aufgabe</b> an die Zeit gedacht?</p>","50","",""
+"","","","","","html-slider-response","18","3231085","0.0-14.0","2025-03-12T09:47:11.478Z","5_puvkjc","4703","15","time2","<p><i>Bitte beantworten Sie die folgenden beiden Fragen zu Ihren Erfahrungen während der 30 Minuten Ganzfeld.</i></p>
+            <p>2. Wie schnell verging die Zeit für Sie <b>während der Aufgabe</b>?</p>","50","",""
