@@ -1,0 +1,3 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
+"true","false","[]","[]","[]","preload","0","18","0.0-0.0","2025-03-31T18:08:21.309Z","3_qcgmfk","","",""
+"","","","","","survey-text","1","11490175","0.0-1.0","2025-03-31T18:08:21.309Z","3_qcgmfk","11495999","{""subject_id"":""3_qcgmfk""}","welcome"
