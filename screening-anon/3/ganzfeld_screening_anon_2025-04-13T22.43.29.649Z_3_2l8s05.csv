@@ -1,0 +1,4 @@
+"view_history","rt","test_part","trial_type","trial_index","time_elapsed","internal_node_id","lab","subject","time","url","response","accuracy"
+"[{""page_index"":0,""viewing_time"":71252}]","71256","instruction","instructions","0","71264","0.0-0.0","3","3_2l8s05","2025-04-13T22:43:29.649Z","","",""
+"","46251","","external-html","1","118572","0.0-1.0","3","3_2l8s05","2025-04-13T22:43:29.649Z","consent/consent3.html","",""
+"","77456","screening","survey","2","196353","0.0-2.0","3","3_2l8s05","2025-04-13T22:43:29.649Z","","{""intro"":null,""mentality"":""(3) Sometimes"",""psi"":""(1) Never"",""succeed"":""(1) Not at all"",""contact"":null}","[]"
