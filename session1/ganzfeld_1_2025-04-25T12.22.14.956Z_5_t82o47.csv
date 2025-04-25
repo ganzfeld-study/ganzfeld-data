@@ -1,0 +1,3 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
+"true","false","[]","[]","[]","preload","0","4","0.0-0.0","2025-04-25T12:22:14.956Z","5_t82o47","","",""
+"","","","","","survey-text","1","2693235","0.0-1.0","2025-04-25T12:22:14.956Z","5_t82o47","2693220","{""subject_id"":""5_t82o47""}","welcome"
