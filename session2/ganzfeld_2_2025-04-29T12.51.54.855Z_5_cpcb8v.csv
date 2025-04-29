@@ -1,0 +1,4 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
+"true","false","[]","[]","[]","preload","0","6090","0.0-0.0","2025-04-29T12:51:54.855Z","5_cpcb8v","","",""
+"","","","","","survey","1","9025","0.0-1.0","2025-04-29T12:51:54.855Z","5_cpcb8v","2912","{""testrun"":""Experiment""}","testrun"
+"","","","","","survey-text","2","381859","0.0-2.0","2025-04-29T12:51:54.855Z","5_cpcb8v","372819","{""subject_id"":""5_cpcb8v""}","welcome"
