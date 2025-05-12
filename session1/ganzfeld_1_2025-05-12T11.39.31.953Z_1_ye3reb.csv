@@ -1,3 +1,4 @@
 "success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
 "true","false","[]","[]","[]","preload","0","5","0.0-0.0","2025-05-12T11:39:31.953Z","1_ye3reb","","",""
 "","","","","","survey-text","1","869247","0.0-1.0","2025-05-12T11:39:31.953Z","1_ye3reb","869217","{""subject_id"":""1_ye3reb""}","welcome"
+"","","","","","survey","2","924164","0.0-2.0","2025-05-12T11:39:31.953Z","1_ye3reb","54686","{""age"":""0"",""gender"":""other / non-binary"",""vegetarian"":""Vegan (or plant-based): a person who eats fruits, vegetables, and grains but no animal or seafood products"",""question1"":null}","survey"
