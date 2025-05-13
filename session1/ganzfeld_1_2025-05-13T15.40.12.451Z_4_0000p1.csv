@@ -1,3 +1,4 @@
 "success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
 "true","false","[]","[]","[]","preload","0","6","0.0-0.0","2025-05-13T15:40:12.451Z","4_0000p1","","",""
 "","","","","","survey-text","1","439349","0.0-1.0","2025-05-13T15:40:12.451Z","4_0000p1","439229","{""subject_id"":""4_0000p1""}","welcome"
+"","","","","","survey","2","454059","0.0-2.0","2025-05-13T15:40:12.451Z","4_0000p1","14634","{""question1"":null,""age"":null,""gender"":null,""vegetarian"":null}","survey"
