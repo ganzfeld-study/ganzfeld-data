@@ -1,0 +1,3 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
+"true","false","[]","[]","[]","preload","0","14","0.0-0.0","2025-05-16T20:23:58.065Z","3_94kuu2","","",""
+"","","","","","survey-text","1","1614608","0.0-1.0","2025-05-16T20:23:58.065Z","3_94kuu2","1614598","{""subject_id"":""3_94kuu2""}","welcome"
