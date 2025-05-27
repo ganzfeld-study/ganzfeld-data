@@ -1,4 +1,6 @@
-"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
-"true","false","[]","[]","[]","preload","0","36168","0.0-0.0","2025-05-27T16:38:06.778Z","3_vngh61","","",""
-"","","","","","survey","1","44892","0.0-1.0","2025-05-27T16:38:06.778Z","3_vngh61","8620","{""testrun"":""Experiment""}","testrun"
-"","","","","","survey-text","2","5971821","0.0-2.0","2025-05-27T16:38:06.778Z","3_vngh61","5930555","{""subject_id"":""3_vngh61""}","welcome"
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part","stimulus","slider_start"
+"true","false","[]","[]","[]","preload","0","36168","0.0-0.0","2025-05-27T16:38:06.778Z","3_vngh61","","","","",""
+"","","","","","survey","1","44892","0.0-1.0","2025-05-27T16:38:06.778Z","3_vngh61","8620","{""testrun"":""Experiment""}","testrun","",""
+"","","","","","survey-text","2","5971821","0.0-2.0","2025-05-27T16:38:06.778Z","3_vngh61","5930555","{""subject_id"":""3_vngh61""}","welcome","",""
+"","","","","","html-slider-response","3","6183321","0.0-3.0-0.0","2025-05-27T16:38:06.778Z","3_vngh61","211491","100","successBelief","<p>Before we begin, we would like to ask you about your attitude to the experiment.</p>
+            <p style=""font-weight: bold;"">How likely do you think it is that you personally will succeed in your precognitive test today?</p>","50"
