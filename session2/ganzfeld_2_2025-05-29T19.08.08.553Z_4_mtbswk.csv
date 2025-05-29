@@ -1,0 +1,4 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
+"true","false","[]","[]","[]","preload","0","11798","0.0-0.0","2025-05-29T19:08:08.553Z","4_mtbswk","","",""
+"","","","","","survey","1","19755","0.0-1.0","2025-05-29T19:08:08.553Z","4_mtbswk","7926","{""testrun"":""Skip to Videos""}","testrun"
+"","","","","","survey-text","2","22203","0.0-2.0","2025-05-29T19:08:08.553Z","4_mtbswk","2394","{""subject_id"":""4_mtbswk""}","welcome"
