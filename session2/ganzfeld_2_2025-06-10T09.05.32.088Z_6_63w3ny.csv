@@ -1,0 +1,4 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
+"true","false","[]","[]","[]","preload","0","18796","0.0-0.0","2025-06-10T09:05:32.088Z","6_63w3ny","","",""
+"","","","","","survey","1","22349","0.0-1.0","2025-06-10T09:05:32.088Z","6_63w3ny","3489","{""testrun"":""Experiment""}","testrun"
+"","","","","","survey-text","2","36732","0.0-2.0","2025-06-10T09:05:32.088Z","6_63w3ny","14262","{""subject_id"":""6_63w3ny""}","welcome"
