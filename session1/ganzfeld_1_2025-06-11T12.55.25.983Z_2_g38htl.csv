@@ -1,0 +1,4 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
+"true","false","[]","[]","[]","preload","0","20","0.0-0.0","2025-06-11T12:55:25.983Z","2_g38htl","","",""
+"","","","","","survey-text","1","76854","0.0-1.0","2025-06-11T12:55:25.983Z","2_g38htl","73952","{""subject_id"":""2_g38htl""}","welcome"
+"","","","","","survey","2","143949","0.0-2.0","2025-06-11T12:55:25.983Z","2_g38htl","66972","{""age"":""46"",""gender"":""male"",""vegetarian"":""Non-vegan vegetarian: a person who eats dairy products and/or eggs, fruits, vegetables, grains, but no other animal or seafood products"",""question1"":null}","survey"
