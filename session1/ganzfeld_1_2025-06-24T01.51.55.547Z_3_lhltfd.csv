@@ -1,0 +1,3 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
+"true","false","[]","[]","[]","preload","0","20","0.0-0.0","2025-06-24T01:51:55.547Z","3_lhltfd","","",""
+"","","","","","survey-text","1","242202727","0.0-1.0","2025-06-24T01:51:55.547Z","3_lhltfd","242234351","{""subject_id"":""3_lhltfd""}","welcome"
