@@ -1,0 +1,4 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
+"true","false","[]","[]","[]","preload","0","240685","0.0-0.0","2025-06-27T10:02:45.461Z","00000000","","",""
+"","","","","","survey","1","260373","0.0-1.0","2025-06-27T10:02:45.461Z","00000000","19625","{""testrun"":""Pilot (Testlauf)""}","testrun"
+"","","","","","survey-text","2","336083","0.0-2.0","2025-06-27T10:02:45.461Z","00000000","75631","{""subject_id"":""00000000""}","welcome"
