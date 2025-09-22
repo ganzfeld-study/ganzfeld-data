@@ -1,0 +1,3 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
+"true","false","[]","[]","[]","preload","0","9","0.0-0.0","2025-09-22T12:53:27.579Z","1_000024","","",""
+"","","","","","survey-text","1","764094","0.0-1.0","2025-09-22T12:53:27.579Z","1_000024","764058","{""subject_id"":""1_000024""}","welcome"
