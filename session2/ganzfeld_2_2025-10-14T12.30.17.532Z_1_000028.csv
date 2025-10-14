@@ -1,4 +1,8 @@
-"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
-"true","false","[]","[]","[]","preload","0","19018","0.0-0.0","2025-10-14T12:30:17.532Z","1_000028","","",""
-"","","","","","survey","1","28691","0.0-1.0","2025-10-14T12:30:17.532Z","1_000028","9420","{""testrun"":""Experiment""}","testrun"
-"","","","","","survey-text","2","1234702","0.0-2.0","2025-10-14T12:30:17.532Z","1_000028","1205962","{""subject_id"":""1_000028""}","welcome"
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part","stimulus","slider_start"
+"true","false","[]","[]","[]","preload","0","19018","0.0-0.0","2025-10-14T12:30:17.532Z","1_000028","","","","",""
+"","","","","","survey","1","28691","0.0-1.0","2025-10-14T12:30:17.532Z","1_000028","9420","{""testrun"":""Experiment""}","testrun","",""
+"","","","","","survey-text","2","1234702","0.0-2.0","2025-10-14T12:30:17.532Z","1_000028","1205962","{""subject_id"":""1_000028""}","welcome","",""
+"","","","","","html-slider-response","3","1262647","0.0-3.0-0.0","2025-10-14T12:30:17.532Z","1_000028","27934","49","successBelief","<p>Innan vi börjar skulle vi vilja fråga dig om din inställning till experimentet.</p>
+            <p style=""font-weight: bold;"">Hur sannolikt tror du att det är att du personligen kommer att lyckas med ditt prekognitiva test idag?</p>","50"
+"","","","","","html-slider-response","4","1270622","0.0-3.0-1.0","2025-10-14T12:30:17.532Z","1_000028","7973","40","comfortable","<p style=""font-weight: bold;"">Känner du dig bekväm med Ganzfeld-miljön?</p>","50"
+"","","","","","html-button-response","5","1426455","0.0-3.0-2.0","2025-10-14T12:30:17.532Z","1_000028","155830","0","restIntro","<p>Härnäst vill vi att du vilar i en lutande fåtölj i 3 minuter. Tryck på ""Nästa"" när du är redo, sätt dig bekvämt tillrätta i fåtöljen och vila tills du hör ett pip som signalerar slutet på treminutersintervallet. Därefter kan du återgå till det här programmet för att fortsätta.</p>",""
