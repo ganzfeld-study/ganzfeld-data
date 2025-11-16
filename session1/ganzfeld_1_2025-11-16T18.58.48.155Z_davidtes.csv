@@ -1,0 +1,3 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
+"true","false","[]","[]","[]","preload","0","2","0.0-0.0","2025-11-16T18:58:48.155Z","davidtes","","",""
+"","","","","","survey-text","1","38822","0.0-1.0","2025-11-16T18:58:48.155Z","davidtes","38814","{""subject_id"":""davidtes""}","welcome"
