@@ -1,0 +1,4 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
+"true","false","[]","[]","[]","preload","0","20237","0.0-0.0","2025-11-19T18:50:44.029Z","Davitest","","",""
+"","","","","","survey","1","23596","0.0-1.0","2025-11-19T18:50:44.029Z","Davitest","3302","{""testrun"":""Skip to Videos""}","testrun"
+"","","","","","survey-text","2","58691","0.0-2.0","2025-11-19T18:50:44.029Z","Davitest","35076","{""subject_id"":""Davitest""}","welcome"
