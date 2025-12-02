@@ -1,4 +1,9 @@
-"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
-"true","false","[]","[]","[]","preload","0","137717","0.0-0.0","2025-12-01T20:51:06.371Z","2_mtbswk","","",""
-"","","","","","survey","1","1705471","0.0-1.0","2025-12-01T20:51:06.371Z","2_mtbswk","1567711","{""testrun"":""Pilot (Test run)""}","testrun"
-"","","","","","survey-text","2","1707927","0.0-2.0","2025-12-01T20:51:06.371Z","2_mtbswk","2440","{""subject_id"":""2_mtbswk""}","welcome"
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part","stimulus","slider_start"
+"true","false","[]","[]","[]","preload","0","137717","0.0-0.0","2025-12-01T20:51:06.371Z","2_mtbswk","","","","",""
+"","","","","","survey","1","1705471","0.0-1.0","2025-12-01T20:51:06.371Z","2_mtbswk","1567711","{""testrun"":""Pilot (Test run)""}","testrun","",""
+"","","","","","survey-text","2","1707927","0.0-2.0","2025-12-01T20:51:06.371Z","2_mtbswk","2440","{""subject_id"":""2_mtbswk""}","welcome","",""
+"","","","","","html-slider-response","3","1711449","0.0-3.0-0.0","2025-12-01T20:51:06.371Z","2_mtbswk","3521","56","successBelief","<p>Before we begin, we would like to ask you about your attitude to the experiment.</p>
+            <p style=""font-weight: bold;"">How likely do you think it is that you personally will succeed in your precognitive test today?</p>","50"
+"","","","","","html-slider-response","4","1714374","0.0-3.0-1.0","2025-12-01T20:51:06.371Z","2_mtbswk","2923","56","comfortable","<p style=""font-weight: bold;"">Do you feel comfortable with the Ganzfeld setup?</p>","50"
+"","","","","","html-button-response","5","1715398","0.0-3.0-2.0","2025-12-01T20:51:06.371Z","2_mtbswk","1023","0","restIntro","<p>Next we would like you to rest in a reclining chair for 3 minutes. Press Continue when you are ready, then make yourself comfortable in the chair, and rest until you hear a beep signaling the end of the three minute interval. Afterwards you can return to this program to proceed.</p>",""
+"","","","","","html-keyboard-response","6","1897916","0.0-3.0-3.0","2025-12-01T20:51:06.371Z","2_mtbswk","null","null","rest","",""
