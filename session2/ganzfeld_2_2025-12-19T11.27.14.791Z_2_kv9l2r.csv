@@ -1,0 +1,4 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
+"true","false","[]","[]","[]","preload","0","7517","0.0-0.0","2025-12-19T11:27:14.791Z","2_kv9l2r","","",""
+"","","","","","survey","1","11241","0.0-1.0","2025-12-19T11:27:14.791Z","2_kv9l2r","3695","{""testrun"":""Experiment""}","testrun"
+"","","","","","survey-text","2","18443","0.0-2.0","2025-12-19T11:27:14.791Z","2_kv9l2r","7170","{""subject_id"":""2_kv9l2r""}","welcome"
