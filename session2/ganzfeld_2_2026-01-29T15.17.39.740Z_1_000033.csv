@@ -1,4 +1,19 @@
-"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
-"true","false","[]","[]","[]","preload","0","15410","0.0-0.0","2026-01-29T15:17:39.740Z","1_000033","","",""
-"","","","","","survey","1","22293","0.0-1.0","2026-01-29T15:17:39.740Z","1_000033","6839","{""testrun"":""Experiment""}","testrun"
-"","","","","","survey-text","2","144553","0.0-2.0","2026-01-29T15:17:39.740Z","1_000033","122232","{""subject_id"":""1_000033""}","welcome"
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part","stimulus","slider_start","value","view_history"
+"true","false","[]","[]","[]","preload","0","15410","0.0-0.0","2026-01-29T15:17:39.740Z","1_000033","","","","","","",""
+"","","","","","survey","1","22293","0.0-1.0","2026-01-29T15:17:39.740Z","1_000033","6839","{""testrun"":""Experiment""}","testrun","","","",""
+"","","","","","survey-text","2","144553","0.0-2.0","2026-01-29T15:17:39.740Z","1_000033","122232","{""subject_id"":""1_000033""}","welcome","","","",""
+"","","","","","html-slider-response","3","160689","0.0-3.0-0.0","2026-01-29T15:17:39.740Z","1_000033","16132","0","successBelief","<p>Innan vi börjar skulle vi vilja fråga dig om din inställning till experimentet.</p>
+            <p style=""font-weight: bold;"">Hur sannolikt tror du att det är att du personligen kommer att lyckas med ditt prekognitiva test idag?</p>","50","",""
+"","","","","","html-slider-response","4","166960","0.0-3.0-1.0","2026-01-29T15:17:39.740Z","1_000033","6270","81","comfortable","<p style=""font-weight: bold;"">Känner du dig bekväm med Ganzfeld-miljön?</p>","50","",""
+"","","","","","html-button-response","5","191481","0.0-3.0-2.0","2026-01-29T15:17:39.740Z","1_000033","24518","0","restIntro","<p>Härnäst vill vi att du vilar i en lutande fåtölj i 3 minuter. Tryck på ""Nästa"" när du är redo, sätt dig bekvämt tillrätta i fåtöljen och vila tills du hör ett pip som signalerar slutet på treminutersintervallet. Därefter kan du återgå till det här programmet för att fortsätta.</p>","","",""
+"","","","","","html-keyboard-response","6","373997","0.0-3.0-3.0","2026-01-29T15:17:39.740Z","1_000033","null","null","rest","","","",""
+"","","","","","call-function","7","373999","0.0-3.0-4.0-0.0","2026-01-29T15:17:39.740Z","1_000033","","","","","","",""
+"","","","","","survey","8","540815","0.0-3.0-4.0-1.0","2026-01-29T15:17:39.740Z","1_000033","166694","{""PCIRest1"":5,""PCIRest2"":1,""PCIRest3"":5,""PCIRest4"":5,""PCIRest5"":0,""PCIRest6"":6,""PCIRest7"":5,""PCIRest8"":1,""PCIRest9"":0,""PCIRest10"":6,""PCIRest11"":0,""PCIRest12"":0,""PCIRest13"":0,""PCIIntro"":null}","PCIRest","","","",""
+"","","","","","call-function","9","540817","0.0-3.0-4.0-2.0","2026-01-29T15:17:39.740Z","1_000033","","","","","","",""
+"","","","","","instructions","10","620328","0.0-3.0-5.0","2026-01-29T15:17:39.740Z","1_000033","79510","","instructions1","","","","[{""page_index"":0,""viewing_time"":79510}]"
+"","","","","","html-button-response","11","850529","0.0-3.0-6.0","2026-01-29T15:17:39.740Z","1_000033","230195","0","GanzfeldIntro","<p>Säg åt försöksledaren att hjälpa dig med Ganzfeld-utrustningen. Försöksledaren kommer att klicka på Nästa när du är redo att börja.</p>
+            <p>Ljudnivån för Ganzfeld kan justeras medan du spelar upp ljud-exemplet nedan.</p>
+            <audio controls>
+                <source src=""../audio/pinknoise_7min_128.mp3"" type=""audio/mpeg"">
+                Your browser does not support the audio element.
+            </audio>","","",""
