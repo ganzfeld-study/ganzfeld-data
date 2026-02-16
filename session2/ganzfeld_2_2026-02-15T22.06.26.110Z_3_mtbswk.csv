@@ -1,4 +1,6 @@
-"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
-"true","false","[]","[]","[]","preload","0","33319","0.0-0.0","2026-02-15T22:06:26.110Z","3_mtbswk","","",""
-"","","","","","survey","1","40523","0.0-1.0","2026-02-15T22:06:26.110Z","3_mtbswk","7173","{""testrun"":""Pilot (Test run)""}","testrun"
-"","","","","","survey-text","2","43290","0.0-2.0","2026-02-15T22:06:26.110Z","3_mtbswk","2752","{""subject_id"":""3_mtbswk""}","welcome"
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part","stimulus","slider_start"
+"true","false","[]","[]","[]","preload","0","33319","0.0-0.0","2026-02-15T22:06:26.110Z","3_mtbswk","","","","",""
+"","","","","","survey","1","40523","0.0-1.0","2026-02-15T22:06:26.110Z","3_mtbswk","7173","{""testrun"":""Pilot (Test run)""}","testrun","",""
+"","","","","","survey-text","2","43290","0.0-2.0","2026-02-15T22:06:26.110Z","3_mtbswk","2752","{""subject_id"":""3_mtbswk""}","welcome","",""
+"","","","","","html-slider-response","3","160954","0.0-3.0-0.0","2026-02-15T22:06:26.110Z","3_mtbswk","117663","60","successBelief","<p>Before we begin, we would like to ask you about your attitude to the experiment.</p>
+            <p style=""font-weight: bold;"">How likely do you think it is that you personally will succeed in your precognitive test today?</p>","50"
