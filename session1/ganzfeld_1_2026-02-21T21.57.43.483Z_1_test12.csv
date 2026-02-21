@@ -1,0 +1,3 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
+"true","false","[]","[]","[]","preload","0","12","0.0-0.0","2026-02-21T21:57:43.483Z","1_test12","","",""
+"","","","","","survey-text","1","6954","0.0-1.0","2026-02-21T21:57:43.483Z","1_test12","6900","{""subject_id"":""1_test12""}","welcome"
