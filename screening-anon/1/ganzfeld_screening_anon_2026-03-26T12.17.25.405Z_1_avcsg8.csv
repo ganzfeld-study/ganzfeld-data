@@ -1,0 +1,4 @@
+"view_history","rt","test_part","trial_type","trial_index","time_elapsed","internal_node_id","lab","subject","time","url","response","accuracy"
+"[{""page_index"":0,""viewing_time"":15583}]","15584","instruction","instructions","0","15587","0.0-0.0","1","1_avcsg8","2026-03-26T12:17:25.405Z","","",""
+"","22969","","external-html","1","38710","0.0-1.0","1","1_avcsg8","2026-03-26T12:17:25.405Z","consent/consent1.html","",""
+"","61240","screening","survey","2","100016","0.0-2.0","1","1_avcsg8","2026-03-26T12:17:25.405Z","","{""intro"":null,""mentality"":""(2) Sällan"",""psi"":""(1) Aldrig"",""succeed"":""(1) Inte alls"",""contact"":null}","[]"
