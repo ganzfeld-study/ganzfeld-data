@@ -1,4 +1,23 @@
-"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
-"true","false","[]","[]","[]","preload","0","4325","0.0-0.0","2026-04-16T16:06:22.399Z","4_000022","","",""
-"","","","","","survey","1","8525","0.0-1.0","2026-04-16T16:06:22.399Z","4_000022","4189","{""testrun"":""Experiment""}","testrun"
-"","","","","","survey-text","2","17378","0.0-2.0","2026-04-16T16:06:22.399Z","4_000022","8844","{""subject_id"":""4_000022""}","welcome"
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part","stimulus","slider_start","value","view_history"
+"true","false","[]","[]","[]","preload","0","4325","0.0-0.0","2026-04-16T16:06:22.399Z","4_000022","","","","","","",""
+"","","","","","survey","1","8525","0.0-1.0","2026-04-16T16:06:22.399Z","4_000022","4189","{""testrun"":""Experiment""}","testrun","","","",""
+"","","","","","survey-text","2","17378","0.0-2.0","2026-04-16T16:06:22.399Z","4_000022","8844","{""subject_id"":""4_000022""}","welcome","","","",""
+"","","","","","html-slider-response","3","70401","0.0-3.0-0.0","2026-04-16T16:06:22.399Z","4_000022","53021","50","successBelief","<p>Before we begin, we would like to ask you about your attitude to the experiment.</p>
+            <p style=""font-weight: bold;"">How likely do you think it is that you personally will succeed in your precognitive test today?</p>","50","",""
+"","","","","","html-slider-response","4","82049","0.0-3.0-1.0","2026-04-16T16:06:22.399Z","4_000022","11647","100","comfortable","<p style=""font-weight: bold;"">Do you feel comfortable with the Ganzfeld setup?</p>","50","",""
+"","","","","","html-button-response","5","138530","0.0-3.0-2.0","2026-04-16T16:06:22.399Z","4_000022","56479","0","restIntro","<p>Next we would like you to rest in a reclining chair for 3 minutes. Press Continue when you are ready, then make yourself comfortable in the chair, and rest until you hear a beep signaling the end of the three minute interval. Afterwards you can return to this program to proceed.</p>","","",""
+"","","","","","html-keyboard-response","6","321146","0.0-3.0-3.0","2026-04-16T16:06:22.399Z","4_000022","null","null","rest","","","",""
+"","","","","","call-function","7","321147","0.0-3.0-4.0-0.0","2026-04-16T16:06:22.399Z","4_000022","","","","","","",""
+"","","","","","survey","8","526881","0.0-3.0-4.0-1.0","2026-04-16T16:06:22.399Z","4_000022","205710","{""PCIRest1"":6,""PCIRest2"":3,""PCIRest3"":0,""PCIRest4"":6,""PCIRest5"":4,""PCIRest6"":1,""PCIRest7"":0,""PCIRest8"":0,""PCIRest9"":0,""PCIRest10"":4,""PCIRest11"":6,""PCIRest12"":5,""PCIRest13"":3,""PCIIntro"":null}","PCIRest","","","",""
+"","","","","","call-function","9","526881","0.0-3.0-4.0-2.0","2026-04-16T16:06:22.399Z","4_000022","","","","","","",""
+"","","","","","instructions","10","657331","0.0-3.0-5.0","2026-04-16T16:06:22.399Z","4_000022","130449","","instructions1","","","","[{""page_index"":0,""viewing_time"":130449}]"
+"","","","","","html-button-response","11","873412","0.0-3.0-6.0","2026-04-16T16:06:22.399Z","4_000022","216079","0","GanzfeldIntro","<p>Please tell the experimenter to assist you with the Ganzfeld equipment. The experimenter will click ""Continue"" when you are ready to begin.</p>
+            <p>The audio level for the ganzfeld can be adjusted while playing the audio sample below.</p>
+            <audio controls>
+                <source src=""../audio/pinknoise_7min_128.mp3"" type=""audio/mpeg"">
+                Your browser does not support the audio element.
+            </audio>","","",""
+"","","","","","audio-keyboard-response","12","3063847","0.0-3.0-7.0","2026-04-16T16:06:22.399Z","4_000022","null","null","GanzfeldPlay","../audio/English_Ganzfeld_Induction_v4.mp3","","",""
+"","","","","","call-function","13","3063849","0.0-3.0-8.0-0.0","2026-04-16T16:06:22.399Z","4_000022","","","","","","",""
+"","","","","","survey","14","3213644","0.0-3.0-8.0-1.0","2026-04-16T16:06:22.399Z","4_000022","149773","{""PCIGanz1"":5,""PCIGanz2"":5,""PCIGanz3"":0,""PCIGanz4"":6,""PCIGanz5"":6,""PCIGanz6"":0,""PCIGanz7"":0,""PCIGanz8"":0,""PCIGanz9"":0,""PCIGanz10"":0,""PCIGanz11"":6,""PCIGanz12"":6,""PCIGanz13"":6,""PCIIntro"":null}","PCIGanzfeld","","","",""
+"","","","","","call-function","15","3213645","0.0-3.0-8.0-2.0","2026-04-16T16:06:22.399Z","4_000022","","","","","","",""
