@@ -1,0 +1,4 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
+"true","false","[]","[]","[]","preload","0","5527","0.0-0.0","2026-06-04T19:20:44.600Z","3_davidx","","",""
+"","","","","","survey","1","11818","0.0-1.0","2026-06-04T19:20:44.600Z","3_davidx","6262","{""testrun"":""Pilot (Test run)""}","testrun"
+"","","","","","survey-text","2","34379","0.0-2.0","2026-06-04T19:20:44.600Z","3_davidx","22545","{""subject_id"":""3_davidx""}","welcome"
