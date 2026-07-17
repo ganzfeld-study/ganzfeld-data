@@ -1,0 +1,4 @@
+"success","timeout","failed_images","failed_audio","failed_video","trial_type","trial_index","time_elapsed","internal_node_id","time","subject","rt","response","test_part"
+"true","false","[]","[]","[]","preload","0","16960","0.0-0.0","2026-07-17T11:33:20.126Z","1_david1","","",""
+"","","","","","survey","1","22228","0.0-1.0","2026-07-17T11:33:20.126Z","1_david1","5238","{""testrun"":""Pilot (Testkörning)""}","testrun"
+"","","","","","survey-text","2","24195","0.0-2.0","2026-07-17T11:33:20.126Z","1_david1","1950","{""subject_id"":""1_david1""}","welcome"
