@@ -1,2 +1,5 @@
 .htaccess
 screening/
+
+# temporaere Dateien von save-data6.php
+*.tmp
