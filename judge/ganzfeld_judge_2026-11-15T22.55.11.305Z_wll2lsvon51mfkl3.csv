@@ -1,0 +1,4 @@
+"rt","response","test_part","trial_type","trial_index","time_elapsed","internal_node_id","id","time","success","timeout","failed_images","failed_audio","failed_video"
+"23184","{""subject"":""David_pilot"",""videoSet"":""1"",""judge"":""David_pilot""}","welcome","survey-text","0","23211","0.0-0.0","wll2lsvon51mfkl3","2026-11-15T22:55:11.305Z","","","","",""
+"","","","preload","1","28458","0.0-1.0","wll2lsvon51mfkl3","2026-11-15T22:55:11.305Z","true","false","[]","[]","[]"
+"232857","{""ClipC"":""0"",""ClipD"":""1"",""ClipB"":""2"",""ClipA"":""5""}","videoRating","survey-html-form","2","261334","0.0-2.0-0.0","wll2lsvon51mfkl3","2026-11-15T22:55:11.305Z","","","","",""
