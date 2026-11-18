@@ -1,0 +1,4 @@
+"rt","response","test_part","trial_type","trial_index","time_elapsed","internal_node_id","id","time","success","timeout","failed_images","failed_audio","failed_video"
+"38563","{""subject"":""6_3qkhe4"",""videoSet"":""3"",""judge"":""Antonia Stoll""}","welcome","survey-text","0","38635","0.0-0.0","yzygbf002v8477ff","2026-11-18T14:43:57.778Z","","","","",""
+"","","","preload","1","42702","0.0-1.0","yzygbf002v8477ff","2026-11-18T14:43:57.778Z","true","false","[]","[]","[]"
+"1014716","{""ClipB"":""4"",""ClipA"":""14"",""ClipD"":""5"",""ClipC"":""15""}","videoRating","survey-html-form","2","1057440","0.0-2.0-0.0","yzygbf002v8477ff","2026-11-18T14:43:57.778Z","","","","",""
