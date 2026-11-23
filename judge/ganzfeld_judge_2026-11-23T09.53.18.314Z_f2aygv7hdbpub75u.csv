@@ -1,0 +1,4 @@
+"rt","response","test_part","trial_type","trial_index","time_elapsed","internal_node_id","id","time","success","timeout","failed_images","failed_audio","failed_video"
+"79200","{""subject"":""4_000007"",""videoSet"":""16"",""judge"":""NANNA""}","welcome","survey-text","0","79219","0.0-0.0","f2aygv7hdbpub75u","2026-11-23T09:53:18.314Z","","","","",""
+"","","","preload","1","93060","0.0-1.0","f2aygv7hdbpub75u","2026-11-23T09:53:18.314Z","true","false","[]","[]","[]"
+"1855800","{""ClipB"":""14"",""ClipA"":""9"",""ClipD"":""22"",""ClipC"":""11""}","videoRating","survey-html-form","2","1948868","0.0-2.0-0.0","f2aygv7hdbpub75u","2026-11-23T09:53:18.314Z","","","","",""
