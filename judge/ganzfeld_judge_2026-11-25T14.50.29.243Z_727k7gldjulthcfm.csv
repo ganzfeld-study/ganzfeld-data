@@ -1,0 +1,4 @@
+"rt","response","test_part","trial_type","trial_index","time_elapsed","internal_node_id","id","time","success","timeout","failed_images","failed_audio","failed_video"
+"41518","{""subject"":""6_nenpj8 "",""videoSet"":""18"",""judge"":""Sophia Saad""}","welcome","survey-text","0","41524","0.0-0.0","727k7gldjulthcfm","2026-11-25T14:50:29.243Z","","","","",""
+"","","","preload","1","111792","0.0-1.0","727k7gldjulthcfm","2026-11-25T14:50:29.243Z","true","false","[]","[]","[]"
+"630704","{""ClipA"":""10"",""ClipC"":""50"",""ClipB"":""20"",""ClipD"":""70""}","videoRating","survey-html-form","2","742498","0.0-2.0-0.0","727k7gldjulthcfm","2026-11-25T14:50:29.243Z","","","","",""
